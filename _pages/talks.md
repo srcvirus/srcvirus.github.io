@@ -19,7 +19,7 @@ author_profile: true
 
 ## Other Presentations
 - [Resource Management in Next Generation Communication Networks](https://srcvirus.github.io/files/comprehensive-II.pdf){:target="_blank"}. ICN Workshop, Orange Labs, France, June 2013 (remote presentation). Comprehensive-II exam, University of Waterloo, April 2019.
-- [Protecting Virtual Networks with DRONE].(https://srcvirus.github.io/files/noms16_drone.pdf){:target="_blank"}. IEEE/IFIP Network Operations and Management Symposium (NOMS), Istanbul, Turkey, April 25-29, 2016.
+- [Protecting Virtual Networks with DRONE](https://srcvirus.github.io/files/noms16_drone.pdf){:target="_blank"}. IEEE/IFIP Network Operations and Management Symposium (NOMS), Istanbul, Turkey, April 25-29, 2016.
 - [Management and Orchestration of Service Function Chains](https://srcvirus.github.io/files/nfv-orchestration.pdf){:target="_blank"}. BUET ACM Chapter Talk Series, Dhaka, Bangladesh, 2015.
 - Towards Autonomic Management of File Systems. Services Research Seminar Series, IBM T.J. Watson Research Center, Yorktown Heights, NY, USA, August 2013.
 - [$\alpha$Route: A Name Based Routing Scheme for Information Centric Networks](https://srcvirus.github.io/files/infocom13_aroute_slides.pdf){:target="_blank"}. ICN Workshop, Orange Labs, France, June 2013 (remote presentation).
