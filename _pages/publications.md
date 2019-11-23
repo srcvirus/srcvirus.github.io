@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Refereed Journals and Magazines
+## Refereed Journals and Magazines
 
 **[J12]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Virtual Network Embedding with Guaranteed Connectivity under Multiple Substrate Link Failures. IEEE Transactions on Communications (Accepted November 2019).
 
@@ -29,7 +29,7 @@ author_profile: true
 
 **[J1]** **Chowdhury, S.R.** , Hasan, M.M., Iqbal, S., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. Fundamenta Informaticae, IOS Press 129(4): 329-340 (PDF, .bib)
 
-# Refereed Conferences / Workshops
+## Refereed Conferences / Workshops
 
 **[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. To appear in IEEE/ACM/IFIP CNSM 2019, Halifax, Canada. (Acceptance Rate: 16.5%) **[Best Paper Award]** (PDF)
 
