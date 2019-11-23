@@ -4,7 +4,7 @@ author_profile: true
 title: "Awards and Achievements"
 ---
 ## Publication awards 
-- **Best Paper Award**, 15th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2019, Halifax, Canada
+- [**Best Paper Award**](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){target:"_blank"}, 15th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2019, Halifax, Canada
 - **Best Paper Award**, 5th IEEE International Conference on Network Softwarization (NetSoft) 2019, Paris, France
 - **Best Paper Award**, 13th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2017, Tokyo, Japan
 - **Best Paper Runner-up Award**, 5th International Workshop on Peer-to-Peer Computing and Online Social Networking (HotPOST) 2013, held in conjunction with IEEE ICDCS 2013
