@@ -2,12 +2,11 @@
 main: 
   - title: "Projects"
     url: /projects/
-    
+  - title: "Education and Experience"
+    url: /education/  
   - title: "Publications"
     url: /publications/
-
+  - title: "Patents"
+    url: /patents/
   - title: "Talks"
     url: /talks/
-            
-  - title: "CV"
-    url: /cv/
