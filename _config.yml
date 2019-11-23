@@ -83,7 +83,7 @@ author:
   name             : "Shihabur Rahman Chowdhury"
   avatar           : "profile.png"
   bio              : "PhD Candidate| David R. Cheriton School of Computer Science, University of Waterloo"
-  location         : "Waterloo, ON, Canada"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r_AbXNsAAAAJ"
@@ -101,16 +101,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://ca.linkedin.com/in/srchowdhury"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6232-2027"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -176,13 +176,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
