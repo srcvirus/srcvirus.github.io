@@ -4,10 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 ## Conferences and Workshops
-- **SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic**. IEEE Conference on Local Computer Networks (LCN), Osnabrück, Germany, October 14-18, 2019 [(Slides)](https://srcvirus.github.io/files/lcn19_sponge_slides.pdf){:target="_blank"}.
-- μNF: A Disaggregated Packet Processing Architecture. IEEE NetSoft, 2019, Paris, France}.
-- Breaking Service Function Chains with Khaleesi. IFIP Networking, 2018, Zurich, Switzerland}.
-- MULE: Multi-Layer Virtual Network Embedding. IEEE/ACM/IFIP CNSM, 2017, Tokyo, Japan}.
+- [SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic](https://srcvirus.github.io/files/lcn19_sponge_slides.pdf){:target="_blank"}. IEEE Conference on Local Computer Networks (LCN), Osnabrück, Germany, October 14-18, 2019.
+- [μNF: A Disaggregated Packet Processing Architecture](https://srcvirus.github.io/files/netsoft19_unf_slides.pdf){:target="_blank"}. IEEE Conference on Network Softwarization (NetSoft), Paris, France, June 24-28, 2019.
+- [Breaking Service Function Chains with Khaleesi](https://srcvirus.github.io/files/networking18_khaleesi_slides.pdf){:target="_blank"}. IFIP Networking Conference, Zurich, Switzerland, May 14-16, 2018.
+- [MULE: Multi-Layer Virtual Network Embedding](https://srcvirus.github.io/files/cnsm17_mule_slides.pdf){:target="_blank"}. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM), Tokyo, Japan, November 26-30, 2017.
 - Joint Backup Capacity Allocation and Embedding for Survivable Virtual Networks. \textit{IFIP Networking, 2017, Stockholm, Sweden}.
 - ReViNE: Reallocation of Virtual Network Embedding to Eliminate Substrate Bottlenecks. \textit{IFIP/IEEE IM, 2017, Lisbon, Portugal}.
 - Emulating an Infrastructure with EASE. IEEE/ACM/IFIP CNSM Mini-conference, 2016, Montreal, QC, Canada}.
