@@ -30,8 +30,7 @@ Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
 ### Project reviewer
 - FONDECYT-CHILE – National Fund for Scientific and Technological Development(Chile)
 
-### External reviewer (journal)
-- IEEE Journal on Selected Areas in Communication, IEEE/ACM Transactions onNetworking, ACM Computing Surveys, IEEE Transactions on Parallel and Distributed Systems, IEEETransactions on Network and Service Management, IEEE Transactions on Communications, IEEETransactions on Cloud Computing, IEEE Communications Magazine, IEEE Network Magazine,IEEE Communication  Letters,  IEEE Access,  Elsevier  Computer Networks,  Elsevier  ComputerCommunications, Springer Journal of Network and Systems Management
+### External reviewer
+- **Journals**: IEEE Journal on Selected Areas in Communication, IEEE/ACM Transactions onNetworking, ACM Computing Surveys, IEEE Transactions on Parallel and Distributed Systems, IEEETransactions on Network and Service Management, IEEE Transactions on Communications, IEEETransactions on Cloud Computing, IEEE Communications Magazine, IEEE Network Magazine,IEEE Communication  Letters,  IEEE Access,  Elsevier  Computer Networks,  Elsevier  ComputerCommunications, Springer Journal of Network and Systems Management
 
-### External reviewer (conference)
-- IEEE  ICDCS  (2016,  2019),  IFIP  Networking  (2014,  2015,  2018,  2019),IEEE/ACM/IFIP CNSM (2015, 2017), IEEE NetSoft 2018, IEEE/IFIP IM (2017, 2019), IEEE ICC2017, IEEE/IFIP NOMS (2014, 2016, 2018), IEEE NFV-SDN (2016, 2017), IEEE CloudNet 2017,IEEE SDN4FNS 2013, IEEE CCGrid 2014, IEEE WCNC 2018, IEEE ISNCC 2018, WALCOM2011.
+- **Conferences**: IEEE  ICDCS  (2016,  2019),  IFIP  Networking  (2014,  2015,  2018,  2019),IEEE/ACM/IFIP CNSM (2015, 2017), IEEE NetSoft 2018, IEEE/IFIP IM (2017, 2019), IEEE ICC2017, IEEE/IFIP NOMS (2014, 2016, 2018), IEEE NFV-SDN (2016, 2017), IEEE CloudNet 2017,IEEE SDN4FNS 2013, IEEE CCGrid 2014, IEEE WCNC 2018, IEEE ISNCC 2018, WALCOM2011.
