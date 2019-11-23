@@ -4,10 +4,9 @@ title: ""
 author_profile: true
 ---
 # Education
-- PhD in Computer Science, May 2012 - Present</br>
-David R. Cheriton School of Computer Science</br>
-University of Waterloo, Canada</br>
-Supervisor: Prof. Raouf Boutaba
+- PhD in Computer Science, May 2012 - Present<br/>
+David R. Cheriton School of Computer Science, University of Waterloo, Canada</br>
+Supervisor: [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){target:_blank}
 
 - B.Sc. (Hons.) in Computer Science and Engineering, October 2009</br>
 Department of Computer Science and Engineering</br> 
