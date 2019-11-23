@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,69 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD Candidate at the David R. Cheriton School of Computer Science, University of Waterloo, Canada, supervised by Prof. Raouf Boutaba. I received my Bachelors of Engineering in Computer Science and Engineering form the Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET). During my PhD I have worked as research intern at IBM T.J. Watson Research Center in USA and INRIA Nancy Grand Est in France. My research interests are in the ares of managing resources in softwarized and virtualized networking infrastructure. My research spans areas including Software-defined Networks, Network Virtualization, Network Function Virtualization, Peer-to-peer systems, among others. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Recent News
+- Nov 07, 2019: Extension of CoViNE accepted to appear in IEEE Transactions on Communications.
+- Oct 25, 2019: Our work on reliable slicing of 5G transport networks has been awarded the best paper at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
+- Sep 23, 2019: ESSO accepted to appear in IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.
+- Aug 03, 2019: Our work on reliable slicing of 5G transport networks been accepted for IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
+- Jul 19, 2019: Our work on low-latency EON slice provisioning has been accepted for IEEE ICNP 2019, Chicago, IL, USA.
+<!-- <li>Jul 08, 2019: SPONGE accepted for IEEE LCN 2019, Osnabrück, Germany. </li> -->
+<!-- <li>Jun 27, 2019: &mu;NF awarded the best paper at IEEE NetSoft 2018, Paris, France.</li> -->
+<!-- <li>May 30, 2019: Awarded Student Travel Grant to attend IEEE NetSoft 2019 in Paris, France.</li> -->
+<!-- <li>May 10, 2019: Awarded <a href='https://uwaterloo.ca/graduate-studies/awardsandfunding/external-awards/ontario-graduate-scholarship-ogs-and-queen-elizabeth-ii' target='_blank'>Ontario Graduate Scholarship</a> and <a href='https://uwaterloo.ca/graduate-studies/awardsandfunding/presidents-graduate-scholarship-pgs' target='_blank'>President's Graduate Scholarship</a> for academic year 2019-2020. -->
+<!-- <li>Apr 26, 2019: Passed PhD Comprehensive-II!</li> -->
+<!-- <li>Mar 03, 2019: &mu;NF accepted for IEEE NetSoft 2019, Paris, France. </li> -->
+<!-- <li>Jan 07, 2019: Our article making the case for microservice-based NFV has been accepted to appear in IEEE Network Magazine.</li> -->
+<!-- <li>Nov 29, 2018: Our work on virtual network embedding in Elastic Optical Networks has been accepted for IEEE INFOCOM 2019, Paris, France.</li> -->
+<!-- <li>Sep 06, 2018: Awarded Best Teaching Assistant for the Winter 2018 Term. </li> -->
+<!-- <li>Aug 27, 2018: UNiS accepted for IEEE/ACM/IFIP CNSM 2018, Rome, Italy. </li> -->
+<!-- <li>Jun 04, 2018: Started internship with RESIST team at INRIA - Nancy Grand Est, France.</li> -->
+<!-- <li>May 14, 2018: Presented Khaleesi at IFIP Networking 2018, Zurich, Switzerland.</li> -->
+<!-- <li>May 03, 2018: Extension of MULE (IEEE/ACM/IFIP CNSM'17) accepted to appear in IEEE Transactions on Network and Service Management.</li> -->
+<!-- <li>Apr 23, 2018: Awarded <a href='https://uwaterloo.ca/graduate-studies/awardsandfunding/external-awards/ontario-graduate-scholarship-ogs-and-queen-elizabeth-ii' target='_blank'>Ontario Graduate Scholarship</a> and <a href='https://uwaterloo.ca/graduate-studies/awardsandfunding/presidents-graduate-scholarship-pgs' target='_blank'>President's Graduate Scholarship</a> for academic year 2018-2019.-->
+<!-- <li>Apr 13, 2018: Awarded UW International Experience Award for research visit to INRIA - Nancy, France.</li> -->
+<!-- <li>Mar 07, 2018: Khaleesi accepted for IFIP Networking 2018, Zurich, Switzerland.</li> -->
+<!-- <li>Feb 27, 2018: Extention of our work on jointly optimizing backup allocation and embedding for SVNE is accepted to appear in IEEE JSAC - 2017 Special Issue on Network Softwarization and Enablers</li> -->
+<!-- <li>Feb 09, 2018: Awarded MITACS Globalink Research Award for a research visit to INRIA - Nancy, France.</li> -->
+<!-- <li>Nov 30, 2017: MULE awarded best paper in IEEE/ACM/IFIP CNSM 2017, Tokyo, Japan.</li> -->
+<!-- <li>Nov 30, 2017: Presented MULE at IEEE/ACM/IFIP CNSM 2017, Tokyo, Japan.</li> -->
+<!-- <li>Nov 08, 2017: Awarded Student Travel Grant to attend IEEE/ACM/IFIP CNSM 2017 in Tokyo, Japan.</li> -->
+<!-- <li>Aug 29, 2017: MULE accepted for IEEE/ACM/IFIP CNSM 2017, Tokyo, Japan. </li> -->
+<!-- <li>June 14, 2017: Presented our work on jointly optimizing backup allocation at VN level and VN embedding at IFIP Networking 2017, Stockholm, Sweden.</li> -->
+<!-- <li>May 09, 2017: Presented ReViNE at IFIP/IEEE IM 2017, Lisbon, Portugal. </li> -->
+<!-- <li>Apr 25, 2017: Awarded Student Travel Grant to attend IFIP/IEEE IM 2017 in Lisbon, Portugal</li> -->
+<!-- <li>Apr 24, 2017: Awarded <a href='https://uwaterloo.ca/graduate-studies/awardsandfunding/external-awards/ontario-graduate-scholarship-ogs-and-queen-elizabeth-ii' target='_blank'>Ontario Graduate Scholarship</a> and <a href='https://uwaterloo.ca/graduate-studies/awardsandfunding/presidents-graduate-scholarship-pgs' target='_blank'>President's Graduate Scholarship</a> for academic year 2017-2018. -->
+<!-- <li>Apr 07, 2017: Our work on jointly optimizing backup allocation and embedding for SVNE is accepted for IFIP Networking 2017, Stockholm, Sweden. </li> -->
+<!-- <li>Apr 03, 2017: Extension of ReNoVatE accepted to appear in IEEE Transactions on Network and Service Management. </li> -->
+<!-- <li>Dec 20, 2016: Awarded Graduate Excellence Scholarship by CS@UWaterloo.</li> -->
+<!-- <li>Nov 11, 2016: ReViNE accepted for IEEE/IFIP IM 2017, Lisbon, Portugal. </li> -->
+<!-- <li>Oct 31, 2016: Presented EASE at IEEE/ACM/IFIP CNSM 2016 (Mini-conference), Montreal, Canada. </li> -->
+<!-- <li>Aug 22, 2016: ReNoVatE and EASE accepted for IEEE/ACM/IFIP CNSM 2016, Montreal, Canada. </li> -->
+<!-- <li>May 21, 2016: Extentions of DRONE and VNF-OP accepted to appear in IEEE Transactions on Network and Service Management. </li> -->
+<!-- <li>Mar 04, 2016: CoViNE accepted for IFIP Networking Conference 2016, Vienna, Austria. </li> -->
+## Awards and Achievements
+- Best Paper Award, 15th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2019, Halifax, Canada
+- Best Paper Award, 5th IEEE International Conference on Network Softwarization (NetSoft) 2019, Paris, France
+- Best Paper Award, 13th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2017, Tokyo, Japan
+- Best Paper Runner-up Award, 5th International Workshop on Peer-to-Peer Computing and Online Social Networking (HotPOST) 2013, held in conjunction with IEEE ICDCS 2013
+- Runner-up for the Best Paper Award, 13th IEEE/IFIP Network Operations and Management Symposium (NOMS) 2016, Istanbul, Turkey
+- Runner-up for the Best Paper Award, 9th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2013, Zurich, Switzerland
+- Best Teaching Assistant Award (Winter 2018), David R. Cheriton School of Computer Science, 2018
+- MITACS Globalink Research Award, MITACS Canada, 2018
+- UW International Experience Award, University of Waterloo, 2018
+- Ontario Graduate Scholarship, University of Waterloo, 2019-2020, 2015-2016
+- Ontario Graduate Scholarship - QNX Graduate Scholarship, University of Waterloo, 2018-2019
+- Ontario Graduate Scholarship - Ross & Muriel Cheriton Graduate Scholarship, University of Waterloo, 2017-2018
+- President's Graduate Scholarship, University of Waterloo, 2017-2020, 2015-2016
+- Graduate Excellence Scholarship, David R. Cheriton School of Computer Science, University of Waterloo, 2017-2018
+- GoBell Scholarship, University of Waterloo, 2013-2015
+- Student Travel Grant, IEEE NetSoft 2019
+- Student Travel Grant, IEEE/ACM/IFIP CNSM 2017
+- Student Travel Grant, IFIP/IEEE IM 2017
+- Student Travel Grant, IEEE/IFIP NOMS 2016 (Not Availed), 2014
+- University Merit Scholarship, Bangladesh University of Engineering and Technology, 2005 - 2008
+- Dean's List Award, Bangladesh University of Engineering and Technology, 2005 - 2009
+- 6th Place, ACM ICPC Regional Programming Contest (Dhaka site), 2007
+- 8th Place, ACM ICPC Regional Programming Contest (Dhaka site), 2006
