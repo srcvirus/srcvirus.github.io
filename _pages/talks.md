@@ -15,10 +15,10 @@ author_profile: true
 - [PayLess: A Low Cost Network Monitoring Framework for Software Defined Networks](https://srcvirus.github.io/files/noms14_payless_slides.pdf){:target="_blank"}. IEEE/IFIP Network Operations and Management Symposium (NOMS), Krakow, Poland, May 5-9, 2014.
 - [Managing the Filesystem from the Kernel](https://srcvirus.github.io/files/noms14_autofs_slides.pdf){:target="_blank"}. IEEE/IFIP Network Operations and Management Symposium (NOMS), Krakow, Poland, May 5-9, 2014}.
 - [Ensuring $\beta$-availability in P2P Social Networks](https://srcvirus.github.io/files/hotpost13_bav_slides.pdf){:target="_blank"}. IEEE ICDCS workshop on Hot topics in Peer-to-Peer Computing and Online Social Networking (HotPOST), Philadelphia, PA, USA, July 8, 2013.
-- [$\alpha$Route: A Name Based Routing Scheme for Information Centric Networks](https://srcvirus.github.io/files/infocom13_aroute_slides.pdf){:target="_blank"}. \textit{IEEE INFOCOM Mini-conference, Turin, Italy, April 15, 2019}. 
+- [$\alpha$Route: A Name Based Routing Scheme for Information Centric Networks](https://srcvirus.github.io/files/infocom13_aroute_slides.pdf){:target="_blank"}. IEEE INFOCOM Mini-conference, Turin, Italy, April 15, 2019. 
 
 ## Other Presentations
-- [Resource Management in Next Generation Communication Networks](https://srcvirus.github.io/files/comprehensive-II.pdf){:target="_blank"}. ICN Workshop, Orange Labs, France, June 2013 (remote presentation). Comprehensive-II exam, University of Waterloo, April 2019.
+- [Resource Management in Next Generation Communication Networks](https://srcvirus.github.io/files/comprehensive-II.pdf){:target="_blank"}. Comprehensive-II exam., University of Waterloo, April 2019.
 - [Protecting Virtual Networks with DRONE](https://srcvirus.github.io/files/noms16_drone.pdf){:target="_blank"}. IEEE/IFIP Network Operations and Management Symposium (NOMS), Istanbul, Turkey, April 25-29, 2016.
 - [Management and Orchestration of Service Function Chains](https://srcvirus.github.io/files/nfv-orchestration.pdf){:target="_blank"}. BUET ACM Chapter Talk Series, Dhaka, Bangladesh, 2015.
 - Towards Autonomic Management of File Systems. Services Research Seminar Series, IBM T.J. Watson Research Center, Yorktown Heights, NY, USA, August 2013.
