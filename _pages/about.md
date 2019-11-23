@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +9,7 @@ redirect_from:
 
 I am a PhD Candidate at the David R. Cheriton School of Computer Science, University of Waterloo, Canada, supervised by Prof. Raouf Boutaba. I received my Bachelors of Engineering in Computer Science and Engineering form the Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET). During my PhD I have worked as research intern at IBM T.J. Watson Research Center in USA and INRIA Nancy Grand Est in France. My research interests are in the ares of managing resources in softwarized and virtualized networking infrastructure. My research spans areas including Software-defined Networks, Network Virtualization, Network Function Virtualization, Peer-to-peer systems, among others. 
 
-## Recent News
+# Recent News
 - Nov 07, 2019: Extension of CoViNE accepted to appear in IEEE Transactions on Communications.
 - Oct 25, 2019: Our work on reliable slicing of 5G transport networks has been awarded the best paper at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
 - Sep 23, 2019: ESSO accepted to appear in IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.
@@ -50,27 +49,25 @@ I am a PhD Candidate at the David R. Cheriton School of Computer Science, Univer
 <!-- <li>Aug 22, 2016: ReNoVatE and EASE accepted for IEEE/ACM/IFIP CNSM 2016, Montreal, Canada. </li> -->
 <!-- <li>May 21, 2016: Extentions of DRONE and VNF-OP accepted to appear in IEEE Transactions on Network and Service Management. </li> -->
 <!-- <li>Mar 04, 2016: CoViNE accepted for IFIP Networking Conference 2016, Vienna, Austria. </li> -->
-## Awards and Achievements
-- Best Paper Award, 15th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2019, Halifax, Canada
-- Best Paper Award, 5th IEEE International Conference on Network Softwarization (NetSoft) 2019, Paris, France
-- Best Paper Award, 13th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2017, Tokyo, Japan
-- Best Paper Runner-up Award, 5th International Workshop on Peer-to-Peer Computing and Online Social Networking (HotPOST) 2013, held in conjunction with IEEE ICDCS 2013
-- Runner-up for the Best Paper Award, 13th IEEE/IFIP Network Operations and Management Symposium (NOMS) 2016, Istanbul, Turkey
-- Runner-up for the Best Paper Award, 9th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2013, Zurich, Switzerland
-- Best Teaching Assistant Award (Winter 2018), David R. Cheriton School of Computer Science, 2018
-- MITACS Globalink Research Award, MITACS Canada, 2018
-- UW International Experience Award, University of Waterloo, 2018
-- Ontario Graduate Scholarship, University of Waterloo, 2019-2020, 2015-2016
-- Ontario Graduate Scholarship - QNX Graduate Scholarship, University of Waterloo, 2018-2019
-- Ontario Graduate Scholarship - Ross & Muriel Cheriton Graduate Scholarship, University of Waterloo, 2017-2018
-- President's Graduate Scholarship, University of Waterloo, 2017-2020, 2015-2016
-- Graduate Excellence Scholarship, David R. Cheriton School of Computer Science, University of Waterloo, 2017-2018
-- GoBell Scholarship, University of Waterloo, 2013-2015
-- Student Travel Grant, IEEE NetSoft 2019
-- Student Travel Grant, IEEE/ACM/IFIP CNSM 2017
-- Student Travel Grant, IFIP/IEEE IM 2017
-- Student Travel Grant, IEEE/IFIP NOMS 2016 (Not Availed), 2014
-- University Merit Scholarship, Bangladesh University of Engineering and Technology, 2005 - 2008
-- Dean's List Award, Bangladesh University of Engineering and Technology, 2005 - 2009
-- 6th Place, ACM ICPC Regional Programming Contest (Dhaka site), 2007
-- 8th Place, ACM ICPC Regional Programming Contest (Dhaka site), 2006
+# Awards and Achievements
+- **Best Paper Award**, 15th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2019, Halifax, Canada
+- **Best Paper Award**, 5th IEEE International Conference on Network Softwarization (NetSoft) 2019, Paris, France
+- **Best Paper Award**, 13th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2017, Tokyo, Japan
+- **Best Paper Runner-up Award**, 5th International Workshop on Peer-to-Peer Computing and Online Social Networking (HotPOST) 2013, held in conjunction with IEEE ICDCS 2013
+- **Best Teaching Assistant Award (Winter 2018)**, David R. Cheriton School of Computer Science, 2018
+- **MITACS Globalink Research Award**, MITACS Canada, 2018
+- **UW International Experience Award**, University of Waterloo, 2018
+- **Ontario Graduate Scholarship**, University of Waterloo, 2019-2020, 2015-2016
+- **Ontario Graduate Scholarship - QNX Graduate Scholarship**, University of Waterloo, 2018-2019
+- **Ontario Graduate Scholarship - Ross & Muriel Cheriton Graduate Scholarship**, University of Waterloo, 2017-2018
+- **President's Graduate Scholarship**, University of Waterloo, 2017-2020, 2015-2016
+- **Graduate Excellence Scholarship**, David R. Cheriton School of Computer Science, University of Waterloo, 2017-2018
+- **GoBell Scholarship**, University of Waterloo, 2013-2015
+- **Student Travel Grant**, IEEE NetSoft 2019
+- **Student Travel Grant**, IEEE/ACM/IFIP CNSM 2017
+- **Student Travel Grant**, IFIP/IEEE IM 2017
+- **Student Travel Grant**, IEEE/IFIP NOMS 2016 (Not Availed), 2014
+- **University Merit Scholarship**, Bangladesh University of Engineering and Technology, 2005 - 2008
+- **Dean's List Award**, Bangladesh University of Engineering and Technology, 2005 - 2009
+- **6th Place**, ACM ICPC Regional Programming Contest (Dhaka site), 2007
+- **8th Place**, ACM ICPC Regional Programming Contest (Dhaka site), 2006
