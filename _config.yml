@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "neon"
 locale                   : "en-US"
 title                    : "Shihabur Rahman Chowdhury"
 title_separator          : "-"
-name                     : &name "Shihabur Rahman Chowdhury"
+name                     : &name "Shihabur R. Chowdhury"
 description              : &description "personal website"
 url                      : https://srcvirus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shihabur Rahman Chowdhury"
-  avatar           : "profile.png"
+  name             : "Shihabur R. Chowdhury"
+  avatar           : "src.jpg"
   bio              : "PhD Candidate| David R. Cheriton School of Computer Science, University of Waterloo"
   location         : 
   employer         :
