@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shihabur Rahman Chowdhury's home page"
+title                    : "Shihabur Rahman Chowdhury"
 title_separator          : "-"
 name                     : &name "Shihabur Rahman Chowdhury"
 description              : &description "personal website"
@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Shihabur Rahman Chowdhury"
   avatar           : "profile.png"
-  bio              : "PhD Candidate, David R. Cheriton School of Computer Science, University of Waterloo"
+  bio              : "PhD Candidate| David R. Cheriton School of Computer Science, University of Waterloo"
   location         : "Waterloo, ON, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r_AbXNsAAAAJ"
-  email            : "sr2chowd [DOT] uwaterloo [DOT] ca"
-  researchgate     :  "https://www.researchgate.net/profile/Shihabur_Chowdhury"
+  email            : 
+  researchgate     : "https://www.researchgate.net/profile/Shihabur_Chowdhury"
+  dblp             " "https://dblp.uni-trier.de/pers/hd/c/Chowdhury:Shihabur_Rahman"
   uri              :
   bitbucket        :
   codepen          :
