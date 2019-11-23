@@ -1,5 +1,6 @@
 ---
 permalink: /education/
+title: ""
 author_profile: true
 ---
 # Education
