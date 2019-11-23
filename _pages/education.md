@@ -27,10 +27,7 @@ Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
 - 2020: IEEE NetSoft, IEEE/IFIP NOMS
 - 2019: IEEE NetSoft
 
-### Project reviewer
-- FONDECYT-CHILE – National Fund for Scientific and Technological Development(Chile)
-
 ### External reviewer
+- **Project**: FONDECYT-CHILE – National Fund for Scientific and Technological Development (Chile)
 - **Journals**: IEEE Journal on Selected Areas in Communications, IEEE/ACM Transactions on Networking, ACM Computing Surveys, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Network and Service Management, IEEE Transactions on Communications, IEEE Transactions on Cloud Computing, IEEE Communications Magazine, IEEE Network, IEEE Communication Letters,  IEEE Access, Elsevier Computer Networks, Elsevier Computer Communications, Springer Journal of Network and Systems Management
-
 - **Conferences**: IEEE ICDCS (2016,  2019),  IFIP  Networking  (2014,  2015,  2018,  2019), IEEE/ACM/IFIP CNSM (2015, 2017), IEEE NetSoft 2018, IEEE/IFIP IM (2017, 2019), IEEE ICC2017, IEEE/IFIP NOMS (2014, 2016, 2018), IEEE NFV-SDN (2016, 2017), IEEE CloudNet 2017, IEEE SDN4FNS 2013, IEEE CCGrid 2014, IEEE WCNC 2018, IEEE ISNCC 2018, WALCOM2011.
