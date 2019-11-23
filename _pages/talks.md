@@ -1,10 +1,10 @@
 ---
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-## Conference and Workshop Talks
-- **SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic**. IEEE Conference on Local Computer Networks (LCN), Osnabrück, Germany, October 14-18, 2019 [(Slides)](paper1.pdf).
+## Conferences and Workshops
+- **SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic**. IEEE Conference on Local Computer Networks (LCN), Osnabrück, Germany, October 14-18, 2019 [(Slides)](https://srcvirus.github.io/files/lcn19_sponge_slides.pdf){:target="_blank"}.
 - μNF: A Disaggregated Packet Processing Architecture. IEEE NetSoft, 2019, Paris, France}.
 - Breaking Service Function Chains with Khaleesi. IFIP Networking, 2018, Zurich, Switzerland}.
 - MULE: Multi-Layer Virtual Network Embedding. IEEE/ACM/IFIP CNSM, 2017, Tokyo, Japan}.
