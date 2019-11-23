@@ -1,6 +1,5 @@
 ---
 permalink: /
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -51,25 +50,4 @@ I am a PhD Candidate at the David R. Cheriton School of Computer Science, Univer
 <!-- <li>May 21, 2016: Extentions of DRONE and VNF-OP accepted to appear in IEEE Transactions on Network and Service Management. </li> -->
 <!-- <li>Mar 04, 2016: CoViNE accepted for IFIP Networking Conference 2016, Vienna, Austria. </li> -->
 
-## Awards and Achievements
-- **Best Paper Award**, 15th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2019, Halifax, Canada
-- **Best Paper Award**, 5th IEEE International Conference on Network Softwarization (NetSoft) 2019, Paris, France
-- **Best Paper Award**, 13th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2017, Tokyo, Japan
-- **Best Paper Runner-up Award**, 5th International Workshop on Peer-to-Peer Computing and Online Social Networking (HotPOST) 2013, held in conjunction with IEEE ICDCS 2013
-- **Best Teaching Assistant Award (Winter 2018)**, David R. Cheriton School of Computer Science, 2018
-- **MITACS Globalink Research Award**, MITACS Canada, 2018
-- **UW International Experience Award**, University of Waterloo, 2018
-- **Ontario Graduate Scholarship**, University of Waterloo, 2019-2020, 2015-2016
-- **Ontario Graduate Scholarship - QNX Graduate Scholarship**, University of Waterloo, 2018-2019
-- **Ontario Graduate Scholarship - Ross & Muriel Cheriton Graduate Scholarship**, University of Waterloo, 2017-2018
-- **President's Graduate Scholarship**, University of Waterloo, 2017-2020, 2015-2016
-- **Graduate Excellence Scholarship**, David R. Cheriton School of Computer Science, University of Waterloo, 2017-2018
-- **GoBell Scholarship**, University of Waterloo, 2013-2015
-- **Student Travel Grant**, IEEE NetSoft 2019
-- **Student Travel Grant**, IEEE/ACM/IFIP CNSM 2017
-- **Student Travel Grant**, IFIP/IEEE IM 2017
-- **Student Travel Grant**, IEEE/IFIP NOMS 2016 (Not Availed), 2014
-- **University Merit Scholarship**, Bangladesh University of Engineering and Technology, 2005 - 2008
-- **Dean's List Award**, Bangladesh University of Engineering and Technology, 2005 - 2009
-- **6th Place**, ACM ICPC Regional Programming Contest (Dhaka site), 2007
-- **8th Place**, ACM ICPC Regional Programming Contest (Dhaka site), 2006
+
