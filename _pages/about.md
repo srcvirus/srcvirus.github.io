@@ -13,7 +13,7 @@ I am a PhD Candidate at the [David R. Cheriton School of Computer Science](https
 
 ## Recent News
 - Nov 07, 2019: CoViNE's extention accepted for IEEE Transactions on Communications.
-- Oct 25, 2019: We received the [best paper award](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"} at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
+- Oct 25, 2019: [Best paper award](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"} at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
 - Sep 23, 2019: ESSO accepted for IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.
 - Aug 03, 2019: Our work on reliable slicing of 5G transport networks been accepted for IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
 - Jul 19, 2019: Our work on low-latency EON slice provisioning has been accepted for IEEE ICNP 2019, Chicago, IL, USA.
