@@ -15,11 +15,11 @@ Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan
 ## Work experience
 - **Teaching and Research Assistant**, May'12 - present  
 University of Waterloo, Canada
-- **Summer Research Intern**, Jun'18 - Aug'18  
+- **Summer Research Intern (RESIST team)**, Jun'18 - Aug'18  
 INRIA - Nancy Grand Est, France
 - **Software Engineering Intern (Tech. Infra.)**, May'14 - Aug'14  
 Google, USA
-- **Summer Research Intern**, May'13 - Sep'13  
+- **Summer Research Intern (Services Research)**, May'13 - Sep'13  
 IBM T.J. Watson Research Center, USA
 - **Lecturer**, Nov'09 - Apr'12  
 Department of CSE, BUET, Bangladesh
