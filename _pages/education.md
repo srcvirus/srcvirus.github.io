@@ -31,7 +31,7 @@ Department of CSE, Military Institute of Science & Technology, Bangladesh
 AfriGIS Bangladesh
 
 ## Professional Services
-### Technical program committee member
+### Technical Program Committee (TPC) member
 - 2020: IEEE NetSoft, IEEE/IFIP NOMS
 - 2019: IEEE NetSoft
 
