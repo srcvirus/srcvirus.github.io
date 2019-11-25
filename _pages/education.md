@@ -5,16 +5,16 @@ author_profile: true
 ---
 ## Education
 - PhD in Computer Science, May 2012 - Present  
-David R. Cheriton School of Computer Science, University of Waterloo, Canada  
+[David R. Cheriton School of Computer Science](https://cs/uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://cs.uwaterloo.ca){:target="_blank"}, Canada  
 Supervisor: [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}
 
 - B.Sc. (Hons.) in Computer Science and Engineering, October 2009  
-Department of Computer Science and Engineering (CSE)  
-Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
+[Department of CSE](https://cse.buet.ac.bd/){:target="_blank"}, BUET, Bangladesh  
+Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan){:target="_blank"} and [Prof. M. Sohel Rahman](https://msrahman.buet.ac.bd/){:target="_blank"}
 
 ## Work experience
-- May'12 - present: Teaching and Research Assistant, University of Waterloo, Canada
-- Jun'18 - Aug'18: Summer Research Intern, INRIA - Nancy Grand Est, France
+- **Teaching and Research Assistant, University of Waterloo**, _May'12 - present_. 
+- **Summer Research Intern, INRIA, France**, _Jun'18 - Aug'18_
 - May'14 - Aug'14: Software Engineering Intern (Tech. Infra.), Google, USA
 - May'13 - Sep'13: Summer Research Intern, IBM T.J. Watson Research Center, USA
 - Nov'09 - Apr'12: Lecturer, Department of CSE, BUET, Bangladesh
