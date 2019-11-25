@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 ## About me
-I am a PhD Candidate at the David R. Cheriton School of Computer Science, University of Waterloo, Canada, supervised by Prof. Raouf Boutaba. I received my Bachelors of Engineering in Computer Science and Engineering form the Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET). During my PhD I have worked as research intern at IBM T.J. Watson Research Center in USA and INRIA Nancy Grand Est in France. My research interests are in the ares of managing resources in softwarized and virtualized networking infrastructure. My research spans areas including Software-defined Networks, Network Virtualization, Network Function Virtualization, Peer-to-peer systems, among others. 
+I am a PhD Candidate at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. I grew up in Bangladesh where I also received my B.Sc. in Computer Science and Engineering degree form the [Department of Computer Science and Engineering](https://cse.buet.ac.bd/){:target="_blank"}, Bangladesh University of Engineering and Technology (BUET). After finishing my bachelors I worked at the same department as a Lecturer for two years before starting graduate studies. During my PhD I have interned at Google and IBM T.J. Watson Research Center in the USA, and INRIA - Nancy Grand Est in France. My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems such as peer-to-peer networks and blockchains. 
 
 ## Recent News
-- Nov 07, 2019: Extension of CoViNE accepted to appear in IEEE Transactions on Communications.
-- Oct 25, 2019: Our work on reliable slicing of 5G transport networks has been [awarded the best paper](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"} at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
-- Sep 23, 2019: ESSO accepted to appear in IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.
+- Nov 07, 2019: CoViNE's extention accepted for IEEE Transactions on Communications.
+- Oct 25, 2019: We received the [best paper award](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"} at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
+- Sep 23, 2019: ESSO accepted for IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.
 - Aug 03, 2019: Our work on reliable slicing of 5G transport networks been accepted for IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
 - Jul 19, 2019: Our work on low-latency EON slice provisioning has been accepted for IEEE ICNP 2019, Chicago, IL, USA.
 <!-- <li>Jul 08, 2019: SPONGE accepted for IEEE LCN 2019, Osnabrück, Germany. </li> -->
