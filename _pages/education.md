@@ -13,14 +13,22 @@ Supervisor: [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_bl
 Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan){:target="_blank"} and [Prof. M. Sohel Rahman](https://msrahman.buet.ac.bd/){:target="_blank"}
 
 ## Work experience
-- **Teaching and Research Assistant, University of Waterloo**, _May'12 - present_. 
-- **Summer Research Intern, INRIA, France**, _Jun'18 - Aug'18_
-- May'14 - Aug'14: Software Engineering Intern (Tech. Infra.), Google, USA
-- May'13 - Sep'13: Summer Research Intern, IBM T.J. Watson Research Center, USA
-- Nov'09 - Apr'12: Lecturer, Department of CSE, BUET, Bangladesh
-- Jan'10 - Apr'12: Instructor, Bangladesh Korea Information Access Center, Department of CSE, BUET, Bangladesh 
-- Jul'10 - Oct'10: Guest Lecturer, Department of CSE, Military Institute of Science & Technology, Bangladesh
-- Dec'09 - Mar'10: Software Developer (Part time), AfriGIS Bangladesh
+- **Teaching and Research Assistant**, May'12 - present_  
+University of Waterloo, Canada
+- **Summer Research Intern**, Jun'18 - Aug'18  
+INRIA - Nancy Grand Est, France
+- **Software Engineering Intern (Tech. Infra.)**, May'14 - Aug'14  
+Google, USA
+- **Summer Research Intern**, May'13 - Sep'13  
+IBM T.J. Watson Research Center, USA
+- **Lecturer**, Nov'09 - Apr'12  
+Department of CSE, BUET, Bangladesh
+- **Instructor**, Jan'10 - Apr'12  
+Bangladesh Korea Information Access Center, Department of CSE, BUET, Bangladesh 
+- **Guest Lecturer**, Jul'10 - Oct'10  
+Department of CSE, Military Institute of Science & Technology, Bangladesh
+- **Software Developer (Part time)**, Dec'09 - Mar'10  
+AfriGIS Bangladesh
 
 ## Professional Services
 ### Technical program committee member
