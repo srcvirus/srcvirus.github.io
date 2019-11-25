@@ -13,7 +13,7 @@ Supervisor: [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_bl
 Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan){:target="_blank"} and [Prof. M. Sohel Rahman](https://msrahman.buet.ac.bd/){:target="_blank"}
 
 ## Work experience
-- **Teaching and Research Assistant**, May'12 - present 
+- **Teaching and Research Assistant**, May'12 - present  
 University of Waterloo, Canada
 - **Summer Research Intern**, Jun'18 - Aug'18  
 INRIA - Nancy Grand Est, France
