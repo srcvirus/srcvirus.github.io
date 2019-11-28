@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700');
 /* ==========================================================================
    Variables
    ========================================================================== */
@@ -14,7 +15,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : Lato, "Helvetica Neue", Arial, sans-serif;
+$sans-serif                 : 'Lato', Lato, Helveltica, helvetica, arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
