@@ -3,33 +3,33 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Refereed Journals and Magazines
+## Journal and Magazine papers
 
 **[J12]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Virtual Network Embedding with Guaranteed Connectivity under Multiple Substrate Link Failures. IEEE Transactions on Communications (Accepted November 2019).
 
 **[J11]** Bari, M.F, **Chowdhury, S.R.**, and Boutaba, R. ESSO: An Energy Smart Service Function Chain Orchestrator. IEEE Transactions on Network and Service Management - Special Issue on Latest Developments for the Management of Softwarized Networks (Accepted September 2019).
 
-**[J10]** **Chowdhury, S.R.**, Salahuddin, M.A., Limam, N., and Boutaba, R. Re-architecting NFV Ecosystem with Microservices: State-of-the-art and Research Challenges. IEEE Network, 33(3): 168-176. (PDF, .bib)
+**[J10]** **Chowdhury, S.R.**, Salahuddin, M.A., Limam, N., and Boutaba, R. Re-architecting NFV Ecosystem with Microservices: State-of-the-art and Research Challenges. IEEE Network, 33(3): 168-176, May 2019. ([PDF](files/netmag19_msnfv.pdf){:target="_blank"}, [.bib](files/netmag19_msnfv.bib){:target="_blank"})
 
-**[J9]** **Chowdhury, S.R.**, Ayoubi, S., Ahmed, R., Shahriar, N., Boutaba, R., Mitra, J., and Liu, L. Multi-Layer Virtual Network Embedding. IEEE Transactions on Network and Service Management, 15(3): 1132 - 1145. (PDF, .bib)
+**[J9]** **Chowdhury, S.R.**, Ayoubi, S., Ahmed, R., Shahriar, N., Boutaba, R., Mitra, J., and Liu, L. Multi-Layer Virtual Network Embedding. IEEE Transactions on Network and Service Management, 15(3): 1132 - 1145, September 2018. ([PDF](files/tnsm18_mule.pdf){:target="_blank"}, [.bib](files/tnsm18_mule.bib){:target="_blank"})
 
-**[J8]** Shahriar, N., **Chowdhury, S.R.**, Ahmed, R., Khan, A., Fathi, S., Boutaba, R., Mitra, J., and Liu, L. Virtual Network Survivability through Joint Spare Capacity Allocation and Embedding. IEEE Journal on Selected Areas in Communications - 2017 Special Issue on Network Softwarization and Enablers, 36(3): 502-518. (PDF, .bib)
+**[J8]** Shahriar, N., **Chowdhury, S.R.**, Ahmed, R., Khan, A., Fathi, S., Boutaba, R., Mitra, J., and Liu, L. Virtual Network Survivability through Joint Spare Capacity Allocation and Embedding. IEEE Journal on Selected Areas in Communications, 36(3): 502-518, March 2018. ([PDF](files/jsac18_vnbackup.pdf){:target="_blank"}, [.bib](files/jsac18_vnbackup.bib){:target="_blank"})
 
-**[J7]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, A., Boutaba, R., and Mitra, J. Generalized Recovery from Node Failure in Virtual Network Embedding. IEEE Transactions on Network and Service Management, 14(2): 261-274 (PDF, .bib)
+**[J7]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, A., Boutaba, R., and Mitra, J. Generalized Recovery from Node Failure in Virtual Network Embedding. IEEE Transactions on Network and Service Management, 14(2): 261-274, June 2017. ([PDF](files/tnsm17_renovate.pdf){:target="_blank"}, [.bib](files/tnsm17_renovate.bib){:target="_blank"})
 
-**[J6]** **Chowdhury, S.R.**, Ahmed, R., Khan, M.M.A., Shahriar, N., Boutaba, R., Mitra, J., and Feng, Z. Dedicated Protection for Survivable Virtual Network Embedding. IEEE Transactions on Network and Service Management, 13(4): 913-926 (PDF, .bib, CPLEX Code, Heuristic Code)
+**[J6]** **Chowdhury, S.R.**, Ahmed, R., Khan, M.M.A., Shahriar, N., Boutaba, R., Mitra, J., and Feng, Z. Dedicated Protection for Survivable Virtual Network Embedding. IEEE Transactions on Network and Service Management, 13(4): 913-926, December 2016. ([PDF](files/tnsm16_drone.pdf){:target="_blank"), [.bib](files/tnsm16_drone.bib){:target="_blank"}, [CPLEX Code](https://github.com/srcvirus/vneprotection){:target="_blank"}, [Heuristic Code](https://github.com/srcvirus/vne-protection-heuristic-2){:target="_blank"})
 
-**[J5]** Bari, M.F, **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Duarte, O. Orchestrating Virtualized Network Functions. IEEE Transactions on Network and Service Management, 13(4): 725-739 (PDF, .bib, Code)
+**[J5]** Bari, M.F, **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Duarte, O. Orchestrating Virtualized Network Functions. IEEE Transactions on Network and Service Management, 13(4): 725-739, December 2016. ([PDF](files/tnsm16_vnfop.pdf){:target="_blank"}, [.bib](files/tnsm_vnfop.bib){:target="_blank"}, [Code](files/tnsm_vnfop.bib){:target="_blank"})
 
-**[J4]** Ahmed, R., Bari, M.F., **Chowdhury, S.R.**, Rabbani, M., Boutaba, R., and Mathieu, B. αRoute: Routing on Names. IEEE/ACM Transactions on Networking, 24(5): 3070-3083 (PDF, .bib)
+**[J4]** Ahmed, R., Bari, M.F., **Chowdhury, S.R.**, Rabbani, M., Boutaba, R., and Mathieu, B. αRoute: Routing on Names. IEEE/ACM Transactions on Networking, 24(5): 3070-3083, January 2016. ([PDF](files/ton_aroute.pdf){:target="_blank"}, [.bib](files/ton_aroute.bib){:target="_blank"})
 
-**[J3]** **Chowdhury, S.R.**, Roy, A.R., Shaikh, M., and Daudjee, K. A Taxonomy of Decentralized Online Social Networks. Peer-to-Peer Networking and Applications, Springer 8(3): 367-383 (PDF, .bib)
+**[J3]** **Chowdhury, S.R.**, Roy, A.R., Shaikh, M., and Daudjee, K. A Taxonomy of Decentralized Online Social Networks. Peer-to-Peer Networking and Applications, Springer 8(3): 367-383, May 2015. ([PDF](files/ppna_dosn_survey.pdf){:target="_blank"}, [.bib](files/ppna_dosn_survey.bib){:target="_blank"})
 
-**[J2]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Mathieu, B. A Survey of naming and routing in Information Centric Networks. IEEE Communications Magazine, 50(12): 44-53 (PDF, .bib)
+**[J2]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Mathieu, B. A Survey of naming and routing in Information Centric Networks. IEEE Communications Magazine, 50(12): 44-53, December 2012. ([PDF](files/commag_icn_survey.pdf){:target="_blank"}, [.bib](files/commag_icn_survey.pdf){:target="_blank"})
 
-**[J1]** **Chowdhury, S.R.** , Hasan, M.M., Iqbal, S., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. Fundamenta Informaticae, IOS Press 129(4): 329-340 (PDF, .bib)
+**[J1]** **Chowdhury, S.R.** , Hasan, M.M., Iqbal, S., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. Fundamenta Informaticae, IOS Press 129(4): 329-340, 2014. ([PDF](files/fi_lcps.pdf){:target="_blank"}, [.bib](files/fi_lcps.bib){:target="_blank"})
 
-## Refereed Conferences / Workshops
+## Conference and Workshop papers
 
 **[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. To appear in IEEE/ACM/IFIP CNSM 2019, Halifax, Canada. (Acceptance Rate: 16.5%) **[Best Paper Award]** (PDF)
 
@@ -89,9 +89,9 @@ author_profile: true
 
 **[B1]** Dolberg, L., François, J., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Engel, T. Network Configuration and Flow Scheduling for Big Data Applications. In Networking for Big Data. S. Yu, X. Lin, J. Misic, and X. Shen (editors). pp. 121-138, CRC Press, 2015 (PDF,.bib)
 
-## Demo and Poster(s)
+## Extended abstracts
 
-**[D1]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. ACM SIGCOMM 2015, London, UK, Aug 17 - 21, 2015. (demo, PDF, .bib)
+**[D1]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. ACM SIGCOMM 2015 (Demo), London, UK, Aug 17 - 21, 2015. (demo, PDF, .bib)
 
 # Patents
 ## Granted
@@ -99,7 +99,7 @@ author_profile: true
 
 **[P4]** Ahmed, R., Mitra, J., **Chowdhury, S.R.**, Shahriar, N., and Boutaba, R. Connectivity-aware virtual network embedding. U.S. Patent No. 9,813,287. Granted November 2017.
 
-## Filed
+## Pending
 **[P3]** **Chowdhury, S.R.**, Ahmed, R., Mitra, J., Shahriar, N., Boutaba, R., and Ayoubi, S. Multi-layer Virtual Network Embedding. US Patent Application No. 15/815,871. Filed: November 2017.
 
 **[P2]** Shahriar, N., Khan, A., Ahmed, R., Mitra, J., **Chowdhury, S.R.**, and Boutaba, R. System and Method for Joint Embedding and Backup Provisioning in Virtual Networks. US Patent Application No. 15/650,354. Filed: July 2017.
