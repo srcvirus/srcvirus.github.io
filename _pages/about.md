@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ## About me
-I am a PhD candidate at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. I grew up in Bangladesh where I also received my B.Sc. in Computer Science and Engineering degree form the [Department of Computer Science and Engineering](https://cse.buet.ac.bd/){:target="_blank"}, Bangladesh University of Engineering and Technology (BUET). After finishing my bachelors I worked at the same department as a Lecturer for two years before starting graduate studies. During my PhD, I have also worked as an intern at Google (USA), IBM T.J. Watson Research Center (USA), and INRIA - Nancy Grand Est (France). My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems such as peer-to-peer networks and blockchains. 
+I am a PhD candidate at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. During my PhD, I have worked as an intern at Google (USA), IBM T.J. Watson Research Center (USA), and INRIA - Nancy Grand Est (France). My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems such as peer-to-peer networks and blockchains. 
 
 ## Recent News
-- Nov 07, 2019: CoViNE's extention accepted for IEEE Transactions on Communications.
+- Nov 07, 2019: [CoViNE](files/CV_Shihab.pdf){:target="_blank"}'s extention accepted for IEEE Transactions on Communications.
 - Oct 25, 2019: [Best paper award](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"} at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
 - Sep 23, 2019: ESSO accepted for IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.
 - Aug 03, 2019: Our work on reliable slicing of 5G transport networks been accepted for IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
