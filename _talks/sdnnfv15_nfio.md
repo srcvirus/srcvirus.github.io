@@ -1,7 +1,7 @@
 ---
-title: "Breaking Service Function Chains with Khaleesi"
+title: "nf.io: A File System Abstraction for NFV Orchestration"
 collection: talks
 type: "Talk"
-date: 2018-05-15
+date: 2015-11-20
 location: "San Francisco, California"
 ---
