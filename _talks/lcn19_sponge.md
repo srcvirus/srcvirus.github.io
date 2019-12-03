@@ -3,5 +3,5 @@ title: "SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network
 collection: talks
 type: "Talk"
 date: 2019-10-16
-location: "Osnabrück, Germany"
+location: "Osnabrueck, Germany"
 ---
