@@ -4,8 +4,6 @@ main:
     url: /education/
   - title: "Awards and Achievements"
     url: /awards/
-  - title: "Projects"
-    url: /projects/
   - title: "Publications and Patents"
     url: /publications/
   - title: "Talks"
