@@ -51,13 +51,14 @@ I am a PhD candidate at the [David R. Cheriton School of Computer Science](https
 <!-- <li>Aug 22, 2016: ReNoVatE and EASE accepted for IEEE/ACM/IFIP CNSM 2016, Montreal, Canada. </li> -->
 <!-- <li>May 21, 2016: Extentions of DRONE and VNF-OP accepted to appear in IEEE Transactions on Network and Service Management. </li> -->
 <!-- <li>Mar 04, 2016: CoViNE accepted for IFIP Networking Conference 2016, Vienna, Austria. </li> -->
+
 ## Current Projects
 - [Driverless networks](https://watdriverlessnetwork.github.io/){:target="_blank"}
 - [Network Softwarization](https://netsoftcreate.github.io/){:target="_blank"}
 - [Elastic Optical Network Virtualization](https://wateonvirtualization.github.io/){:target="_blank"}
 
 ## Past Projects
-- Transport SDN virtualization
-- Peer-to-peer Web hosting
-- Routing in Information Centric Networks
+- [Transport SDN virtualization](https://www.researchgate.net/project/Transport-SDN-Virtualization){:target="_blank"}
+- [pWeb: A Peer-to-peer Web](https://www.researchgate.net/project/P2P-Web-pWeb){:target="_blank"}
+- [Routing in Information Centric Networks](https://www.researchgate.net/project/Information-Centric-Networking-ICN-2){:target="_blank"}
 
