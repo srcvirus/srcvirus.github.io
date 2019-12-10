@@ -7,7 +7,7 @@ author_profile: true
 
 **[J12]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Virtual Network Embedding with Guaranteed Connectivity under Multiple Substrate Link Failures. IEEE Transactions on Communications (Accepted November 2019).
 
-**[J11]** Bari, M.F, **Chowdhury, S.R.**, and Boutaba, R. ESSO: An Energy Smart Service Function Chain Orchestrator. IEEE Transactions on Network and Service Management - Special Issue on Latest Developments for the Management of Softwarized Networks (Accepted September 2019).
+**[J11]** Bari, M.F, **Chowdhury, S.R.**, and Boutaba, R. ESSO: An Energy Smart Service Function Chain Orchestrator. IEEE Transactions on Network and Service Management - Special Issue on Latest Developments for the Management of Softwarized Networks, 16(4): 1345 - 1359, December 2019. ([PDF](../files/tnsm19_esso.pdf){:target="_blank"}, [.bib](../files/tnsm19_esso.bib){:target="_blank"})
 
 **[J10]** **Chowdhury, S.R.**, Salahuddin, M.A., Limam, N., and Boutaba, R. Re-architecting NFV Ecosystem with Microservices: State-of-the-art and Research Challenges. IEEE Network, 33(3): 168-176, May 2019. ([PDF](../files/netmag19_msnfv.pdf){:target="_blank"}, [.bib](../files/netmag19_msnfv.bib){:target="_blank"})
 
