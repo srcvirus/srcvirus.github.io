@@ -25,7 +25,7 @@ author_profile: true
 
 **[J3]** **Chowdhury, S.R.**, Roy, A.R., Shaikh, M., and Daudjee, K. A Taxonomy of Decentralized Online Social Networks. Peer-to-Peer Networking and Applications, Springer 8(3): 367-383, May 2015. ([PDF](../files/ppna_dosn_survey.pdf){:target="_blank"}, [.bib](../files/ppna_dosn_survey.bib){:target="_blank"})
 
-**[J2]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Mathieu, B. A Survey of naming and routing in Information Centric Networks. IEEE Communications Magazine, 50(12): 44-53, December 2012. ([PDF](../files/commag_icn_survey.pdf){:target="_blank"}, [.bib](../files/commag_icn_survey.pdf){:target="_blank"})
+**[J2]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Mathieu, B. A Survey of naming and routing in Information Centric Networks. IEEE Communications Magazine, 50(12): 44-53, December 2012. ([PDF](../files/commag_icn_survey.pdf){:target="_blank"}, [.bib](../files/commag_icn_survey.bib){:target="_blank"})
 
 **[J1]** **Chowdhury, S.R.** , Hasan, M.M., Iqbal, S., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. Fundamenta Informaticae, IOS Press 129(4): 329-340, 2014. ([PDF](../files/fi_lcps.pdf){:target="_blank"}, [.bib](../files/fi_lcps.bib){:target="_blank"})
 
@@ -33,13 +33,13 @@ author_profile: true
 
 **[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. To appear in IEEE/ACM/IFIP CNSM 2019, Halifax, Canada. (Acceptance Rate: 16.5%) **[Best Paper Award]** (PDF)
 
-**[C26]** Taeb, S., Shahriar, N., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Virtual Network Embedding with Path-based Latency Guarantees in Elastic Optical Networks. In proceedings of IEEE ICNP 2019, pp. 1-12. (Acceptance Rate: 19.3%) (PDF, .bib)
+**[C26]** Taeb, S., Shahriar, N., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Virtual Network Embedding with Path-based Latency Guarantees in Elastic Optical Networks. In proceedings of IEEE ICNP 2019, pp. 1-12. (Acceptance Rate: 19.3%) (([PDF](../files/icnp19_vnlatencyeon.pdf){:target="_blank"}, [.bib](../files/icnp19_vnlatencyeon.bib){:target="_blank"}))
 
-**[C25]** Henry, B., **Chowdhury, S.R.**, Lahmadi, A,, Azais, R., Francois, J., and Boutaba, R. SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic. To appear in IEEE LCN 2019, Osnabrück, Germany. (Acceptance Rate: 28.9%) (PDF, Slides)
+**[C25]** Henry, B., **Chowdhury, S.R.**, Lahmadi, A,, Azais, R., Francois, J., and Boutaba, R. SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic. To appear in IEEE LCN 2019, Osnabrück, Germany. (Acceptance Rate: 28.9%) (([PDF](../files/lcn19_sponge.pdf){:target="_blank"}, [Slides](../files/lcn19_sponge_slides.pdf){:target="_blank"}))
 
 **[C24]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. μNF: A Disaggregated Packet Processing Architecture. In proceedings of IEEE NetSoft 2019, pp. 342-350. (Acceptance Rate: 24.7%) **[Best Paper Award]** (PDF, .bib, Slides, Source code)
 
-**[C23]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Achieving a Fully-Flexible Virtual Network Embedding in Elastic Optical Networks. In Proceedings of IEEE INFOCOM 2019, pp. 1756-1764. (Acceptance Rate: 19.6%) (PDF, .bib)
+**[C23]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Achieving a Fully-Flexible Virtual Network Embedding in Elastic Optical Networks. In Proceedings of IEEE INFOCOM 2019, pp. 1756-1764. (Acceptance Rate: 19.6%) (([PDF](../files/infocom19_vneeon.pdf){:target="_blank"}, [.bib](../files/infocom19_vneeon.bib){:target="_blank"}))
 
 **[C22]** Anthony, A., **Chowdhury, S.R.**, Bai, T., Boutaba, R., and Francois, J. UNiS: A User-space Non-intrusive Workflow-aware Virtual Network Function Scheduler. In Proceedings of IEEE/ACM/IFIP CNSM 2018, pp. 152-160. (Acceptance Rate: 15.9%) (PDF, .bib, Slides)
 
@@ -53,13 +53,13 @@ author_profile: true
 
 **[C17]** **Chowdhury, S.R.**, Ahmed, R., Shahriar, N., Khan, A., Boutaba, R., Mitra, J, and Liu, L. ReViNE: Reallocation of Virtual Network Embedding to Eliminate Substrate Bottlenecks. In Proceedings of IFIP/IEEE IM 2017, pp. 116-124 (Acceptance Rate: 28.6%) (PDF, .bib, Slides, CPLEX Code, Heuristic Code)
 
-**[C16]** Shahriar, N., Ahmed, R., Khan, A., **Chowdhury, S.R.**, Boutaba, R., and Mitra, J. ReNoVatE: Recovery from Node Failure in Virtual Network Embedding. In Proceedings of IEEE/ACM/IFIP CNSM 2016, pp. 19-27 (Acceptance Rate: 15.5%) (PDF, .bib)
+**[C16]** Shahriar, N., Ahmed, R., Khan, A., **Chowdhury, S.R.**, Boutaba, R., and Mitra, J. ReNoVatE: Recovery from Node Failure in Virtual Network Embedding. In Proceedings of IEEE/ACM/IFIP CNSM 2016, pp. 19-27 (Acceptance Rate: 15.5%) (([PDF](../files/cnsm16_renovate.pdf){:target="_blank"}, [.bib](../files/cnsm16_renovate.bib){:target="_blank"}))
 
 **[C15]** Roy, A.R, **Chowdhury, S.R.**, Bari, M.F., Ahmed, R., and Boutaba, R. Emulating an Infrastructure with EASE. In Proceedings of IEEE/ACM/IFIP CNSM 2016 (Mini-Conference), pp. 167-173 (PDF, .bib, Slides)
 
-**[C14]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Connectivity-aware Virtual Network Embedding. In Proceedings of IFIP Networking 2016, pp. 46 - 54 (Acceptance Rate: 29%) (PDF, .bib)
+**[C14]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Connectivity-aware Virtual Network Embedding. In Proceedings of IFIP Networking 2016, pp. 46 - 54 (Acceptance Rate: 29%) (([PDF](../files/networking16_covine.pdf){:target="_blank"}, [.bib](../files/networking16_covine.bib){:target="_blank"}))
 
-**[C13]** Dolberg, L., François, J., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Engel, T. A Generic Framework to Support Application-Level Flow Management in Software-Defined Networks. In Proceedings of IEEE NetSoft 2016, pp. 121-125 (PDF, .bib)
+**[C13]** Dolberg, L., François, J., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Engel, T. A Generic Framework to Support Application-Level Flow Management in Software-Defined Networks. In Proceedings of IEEE NetSoft 2016, pp. 121-125 (([PDF](../files/netsoft16_alfman.pdf){:target="_blank"}, [.bib](../files/netsoft16_alfman.bib){:target="_blank"}))
 
 **[C12]** **Chowdhury, S.R.**, Ahmed, R., Khan, MMA., Shahriar, N., Boutaba, R., Mitra, J., and Zeng, F. Protecting Virtual Networks with DRONE. In Proceedings of IEEE/IFIP NOMS 2016, pp. 78-86 (Acceptance Rate: 25.3%) (PDF, .bib, Slides, CPLEX Code, Heuristic Code)
 
@@ -67,23 +67,23 @@ author_profile: true
 
 **[C10]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. On Orchestrating Virtual Network Functions. In Proceedings of ACM/IEEE/IFIP CNSM 2015 (Mini conference), pp. 50-56 (PDF, .bib, Code)
 
-**[C9]** Ahmed, R., **Chowdhury, S.R.**, Pokluda, A., Bari, M.F., Boutaba, R., and Mathieu, B. pWeb: A Personal Interface to the World Wide Web. In proceedings of IFIP Networking Conference, 2014. (Acceptance Rate: 25%) (PDF, .bib)
+**[C9]** Ahmed, R., **Chowdhury, S.R.**, Pokluda, A., Bari, M.F., Boutaba, R., and Mathieu, B. pWeb: A Personal Interface to the World Wide Web. In proceedings of IFIP Networking Conference, 2014. (Acceptance Rate: 25%) (([PDF](../files/networking14_pweb.pdf){:target="_blank"}, [.bib](../files/networking14_pweb.bib){:target="_blank"}))
 
 **[C8]** **Chowdhury, S.R.**, Adam, C., Wu, F., Rofrano, J., and Boutaba, R. Managing the File Sytem from the Kernel. In proceedings of IEEE/IFIP NOMS 2014. (Acceptance Rate: 28.9%) (PDF, .bib, Slides)
 
 **[C7]** **Chowdhury, S.R.**, Bari, M.F., Ahmed, R., and Boutaba, R. PayLess: A Low Cost Network Monitoring Framework for Software Defined Networks. In proceedings of IEEE/IFIP NOMS 2014. (Acceptance Rate: 28.9%) (PDF, .bib, Slides)
 
-**[C6]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. PolicyCop: An Autonomic QoS Policy Enforcement Framework for Software Defined Networks. In proceedings of IEEE SDN4FNS 2013, pp. 1-7 (PDF, .bib)
+**[C6]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. PolicyCop: An Autonomic QoS Policy Enforcement Framework for Software Defined Networks. In proceedings of IEEE SDN4FNS 2013, pp. 1-7 (([PDF](../files/sdn4fns13_policycop.pdf){:target="_blank"}, [.bib](../files/sdn4fns13_policycop.bib){:target="_blank"}))
 
-**[C5]** Bari, M.F., Roy, A.R., **Chowdhury, S.R.**, Zhang, Q., Zhani, M.F., Ahmed, R., and Boutaba, R. Dynamic Controller Provisioning in Software Defined Networks. In proceedings of IEEE/ACM/IFIP CNSM 2013, pp. 18-25 (Acceptance Rate: 18.1%) [Best Paper Runner-up] (PDF, .bib)
+**[C5]** Bari, M.F., Roy, A.R., **Chowdhury, S.R.**, Zhang, Q., Zhani, M.F., Ahmed, R., and Boutaba, R. Dynamic Controller Provisioning in Software Defined Networks. In proceedings of IEEE/ACM/IFIP CNSM 2013, pp. 18-25 (Acceptance Rate: 18.1%) [Runner-up for best paper award] (([PDF](../files/cnsm13_dcp.pdf){:target="_blank"}, [.bib](../files/cnsm13_dcp.bib){:target="_blank"}))
 
 **[C4]** Shahriar, N., **Chowdhury, S.R.**, Sharmin, M., Ahmed, R., Boutaba, R., and Mathieu, B. Ensuring β-availability in P2P Social Networks. In Proceedings of HotPOST 2013 (ICDCS 2013 Workshops), pp. 150-155 (Acceptance Rate: 40%) [Best Paper Runner-up] (PDF, .bib, Slides)
 
 **[C3]** Ahmed, R., Bari, M.F., **Chowdhury, S.R.** , Rabbani, M., Boutaba, R., and Mathieu, B. αRoute: A Name Based Routing Scheme for Information Centric Networks. In Proceedings of IEEE INFOCOM, 2013, pp. 90-94 (PDF, .bib, Slides)
 
-**[C2]** **Chowdhury, S.R.**, Iqbal, S., Hasan, M.M., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. In Proceedings of IWOCA 2012, LNCS 7643:219-223 (PDF, .bib)
+**[C2]** **Chowdhury, S.R.**, Iqbal, S., Hasan, M.M., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. In Proceedings of IWOCA 2012, LNCS 7643:219-223 (([PDF](../files/iwoca12_lcps.pdf){:target="_blank"}, [.bib](../files/iwoca12_lcps.bib){:target="_blank"}))
 
-**[C1]** Iqbal, S., **Chowdhury, S.R.**, Hyder, C.S., Vasilakos, A.V., and Wang C. Vehicular Communication: Protocol Design, Testbed Implementation and Performance Analysis. In Proceedings of IWCMC VehiComm Workshop 2009, pp. 410-415 (PDF, .bib)
+**[C1]** Iqbal, S., **Chowdhury, S.R.**, Hyder, C.S., Vasilakos, A.V., and Wang C. Vehicular Communication: Protocol Design, Testbed Implementation and Performance Analysis. In Proceedings of IWCMC VehiComm Workshop 2009, pp. 410-415 (([PDF](../files/iwcmc09_vc.pdf){:target="_blank"}, [.bib](../files/iwcmc09_vc.bib){:target="_blank"}))
 
 ## Book Chapter(s)
 
