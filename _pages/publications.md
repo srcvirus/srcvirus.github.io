@@ -51,7 +51,7 @@ author_profile: true
 
 **[C18]** Shahriar, N., Chowdhury, S.R., Ahmed, R., Khan, A., Boutaba, R., Mitra, J, and Liu, L. Joint Backup Capacity Allocation and Embedding for Survivable Virtual Networks. In Proceedings of IFIP Networking 2017, pp. 1-9. (Acceptance Rate: 28.6%) ([PDF](../files/networking17_vnbackup.pdf){:target="_blank"}, [.bib](../files/networking17_vnbackup.bib){:target="_blank"}, [Slides](../files/networking17_vnbackup_slides.pdf))
 
-**[C17]** **Chowdhury, S.R.**, Ahmed, R., Shahriar, N., Khan, A., Boutaba, R., Mitra, J, and Liu, L. ReViNE: Reallocation of Virtual Network Embedding to Eliminate Substrate Bottlenecks. In Proceedings of IFIP/IEEE IM 2017, pp. 116-124 (Acceptance Rate: 28.6%) (PDF, .bib, Slides, CPLEX Code, Heuristic Code)
+**[C17]** **Chowdhury, S.R.**, Ahmed, R., Shahriar, N., Khan, A., Boutaba, R., Mitra, J, and Liu, L. ReViNE: Reallocation of Virtual Network Embedding to Eliminate Substrate Bottlenecks. In Proceedings of IFIP/IEEE IM 2017, pp. 116-124 (Acceptance Rate: 28.6%) ([PDF](../files/im2017_revine.pdf){:target="_blank"}, [.bib](../files/im2017_revine.bib){:target="_blank"}, [Slides](../files/im2017_revine_slides.pdf), [Heuristic Code](https://github.com/srcvirus/vne-reallocation-sa){:target="_blank"}, [CPLEX Code](https://github.com/srcvirus/vne-reallocation-cplex){:target="_blank"})
 
 **[C16]** Shahriar, N., Ahmed, R., Khan, A., **Chowdhury, S.R.**, Boutaba, R., and Mitra, J. ReNoVatE: Recovery from Node Failure in Virtual Network Embedding. In Proceedings of IEEE/ACM/IFIP CNSM 2016, pp. 19-27 (Acceptance Rate: 15.5%) ([PDF](../files/cnsm16_renovate.pdf){:target="_blank"}, [.bib](../files/cnsm16_renovate.bib){:target="_blank"})
 
@@ -65,7 +65,7 @@ author_profile: true
 
 **[C11]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. In Proceedings of IEEE NFV-SDN Conference 2015, pp. 135-141 ([PDF](../files/sdnnfv15_nfio.pdf){:target="_blank"}, [.bib](../files/sdnnfv15_nfio.bib){:target="_blank"}, [Slides](../files/sdnnfv15_nfio_slides.pdf))
 
-**[C10]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. On Orchestrating Virtual Network Functions. In Proceedings of ACM/IEEE/IFIP CNSM 2015 (Mini conference), pp. 50-56 (PDF, .bib, Code)
+**[C10]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. On Orchestrating Virtual Network Functions. In Proceedings of ACM/IEEE/IFIP CNSM 2015 (Mini conference), pp. 50-56 ([PDF](../files/cnsm15_vnfop.pdf){:target="_blank"}, [.bib](../files/cnsm15_vnfop.bib){:target="_blank"}, [Code](https://github.com/srcvirus/middlebox-placement){:target="_blank"})
 
 **[C9]** Ahmed, R., **Chowdhury, S.R.**, Pokluda, A., Bari, M.F., Boutaba, R., and Mathieu, B. pWeb: A Personal Interface to the World Wide Web. In proceedings of IFIP Networking Conference, 2014. (Acceptance Rate: 25%) ([PDF](../files/networking14_pweb.pdf){:target="_blank"}, [.bib](../files/networking14_pweb.bib){:target="_blank"})
 
@@ -87,12 +87,12 @@ author_profile: true
 
 ## Book Chapter(s)
 
-**[B1]** Dolberg, L., François, J., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Engel, T. Network Configuration and Flow Scheduling for Big Data Applications. In Networking for Big Data. S. Yu, X. Lin, J. Misic, and X. Shen (editors). pp. 121-138, CRC Press, 2015 (PDF,.bib)
+**[B1]** Dolberg, L., François, J., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Engel, T. Network Configuration and Flow Scheduling for Big Data Applications. In Networking for Big Data. S. Yu, X. Lin, J. Misic, and X. Shen (editors). pp. 121-138, CRC Press, 2015 ([PDF](../files/bchapter_bigdata.pdf){:target="_blank"}, [.bib](../files/bchapter_bigdata.bib)
 
 ## Extended abstracts
 **[E2]** Shahriar, N., Zulfiqar, M., **Chowdhury, S.R.**, Taeb, S., Tornatore, M., Boutaba, R., Mitra, J, and Hemmati, M.  Disruption-minimized Re-adaptation of Virtual Links in Elastic Optical Networks. Optical Fiber Communication Conference (OFC) (Poster), San Diego, CA, USA, Mar 8 - 12, 2020.
 
-**[E1]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. ACM SIGCOMM 2015 (Demo), London, UK, Aug 17 - 21, 2015. (PDF, .bib)
+**[E1]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. ACM SIGCOMM 2015 (Demo), London, UK, Aug 17 - 21, 2015. ([PDF](../files/sigcomm15_nfio.pdf){:target="_blank"}, [.bib](../files/sigcomm15_nfio.bib)
 
 # Patents
 ## Granted
