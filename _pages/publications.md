@@ -94,13 +94,11 @@ author_profile: true
 
 **[E1]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. ACM SIGCOMM 2015 (Demo), London, UK, Aug 17 - 21, 2015. ([PDF](../files/sigcomm15_nfio.pdf){:target="_blank"}, [.bib](../files/sigcomm15_nfio.bib))
 
-# Patents
-## Granted
+## Patents
 **[P5]** Ahmed, R., Mitra, J., **Chowdhury, S.R.**, Shahriar, N., and Boutaba, R. Dedicated Protection for Virtual Network Embedding. US Patent No. 10,313,195. Granted June 2019.
 
 **[P4]** Ahmed, R., Mitra, J., **Chowdhury, S.R.**, Shahriar, N., and Boutaba, R. Connectivity-aware virtual network embedding. U.S. Patent No. 9,813,287. Granted November 2017.
 
-## Pending
 **[P3]** **Chowdhury, S.R.**, Ahmed, R., Mitra, J., Shahriar, N., Boutaba, R., and Ayoubi, S. Multi-layer Virtual Network Embedding. US Patent Application No. 15/815,871. Filed: November 2017.
 
 **[P2]** Shahriar, N., Khan, A., Ahmed, R., Mitra, J., **Chowdhury, S.R.**, and Boutaba, R. System and Method for Joint Embedding and Backup Provisioning in Virtual Networks. US Patent Application No. 15/650,354. Filed: July 2017.
