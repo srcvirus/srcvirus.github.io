@@ -12,11 +12,12 @@ redirect_from:
 I am a PhD candidate at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. During my PhD, I have worked as an intern at Google (USA), IBM T.J. Watson Research Center (USA), and INRIA - Nancy Grand Est (France). My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems such as peer-to-peer networks and blockchains. 
 
 ## Recent News
+- Dec 10, 2019: Our work on disruption-minimized virtual link re-adaptation has been accepted for OFC 2020, San Diego, CA, USA.
 - Nov 07, 2019: [CoViNE](files/CV_Shihab.pdf){:target="_blank"}'s extention accepted for IEEE Transactions on Communications.
 - Oct 25, 2019: [Best paper award](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"} at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
 - Sep 23, 2019: ESSO accepted for IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.
-- Aug 03, 2019: Our work on reliable slicing of 5G transport networks been accepted for IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
-- Jul 19, 2019: Our work on low-latency EON slice provisioning has been accepted for IEEE ICNP 2019, Chicago, IL, USA.
+- Aug 03, 2019: Our work on reliable slicing of 5G transport networks has been accepted for IEEE/ACM/IFIP CNSM 2019, Halifax, Canada.
+<!-- - Jul 19, 2019: Our work on low-latency EON slice provisioning has been accepted for IEEE ICNP 2019, Chicago, IL, USA.-->
 <!-- <li>Jul 08, 2019: SPONGE accepted for IEEE LCN 2019, Osnabrück, Germany. </li> -->
 <!-- <li>Jun 27, 2019: &mu;NF awarded the best paper at IEEE NetSoft 2018, Paris, France.</li> -->
 <!-- <li>May 30, 2019: Awarded Student Travel Grant to attend IEEE NetSoft 2019 in Paris, France.</li> -->
