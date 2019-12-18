@@ -97,9 +97,9 @@ author_profile: true
 ## Patents
 **[P7]** Shahriar, N., Mitra, J., Ahmed, R., **Chowdhury, S.R.**, and Boutaba, R. Methods and Systems for Failure Recovery in a Virtual Network Environment. US Patent No. 10,505,840. Granted: December 2019.
 
-**[P6]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Mitra, J., and Hemmati, M. (2019). Method and systemfor latency-aware embedding of a virtual network onto a substrate optical network. US Patent Application No. 16/600,103. Filed: October 2019.
+**[P6]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Mitra, J., and Hemmati, M. Method and systemfor latency-aware embedding of a virtual network onto a substrate optical network. US Patent Application No. 16/600,103. Filed: October 2019.
 
-**[P5]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Taeb, S., Mitra, J., and Hemmati, M. (2019). Method andsystem for reliability-aware embedding of a virtual network onto an elastic optical network. US Patent Application No. 16/657,635. Filed: October 2019.
+**[P5]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Taeb, S., Mitra, J., and Hemmati, M. Method andsystem for reliability-aware embedding of a virtual network onto an elastic optical network. US Patent Application No. 16/657,635. Filed: October 2019.
 
 **[P4]** Ahmed, R., Mitra, J., **Chowdhury, S.R.**, Shahriar, N., and Boutaba, R. Dedicated Protection for Virtual Network Embedding. US Patent No. 10,313,195. Granted June 2019.
 
