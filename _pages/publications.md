@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal and Magazine papers
+**[J13]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications (Accepted January 2020).
 
 **[J12]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Virtual Network Embedding with Guaranteed Connectivity under Multiple Substrate Link Failures. IEEE Transactions on Communications (Accepted November 2019).
 
