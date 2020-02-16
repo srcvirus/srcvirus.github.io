@@ -6,7 +6,7 @@ author_profile: true
 ## Journal and Magazine papers
 **[J13]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications. Accepted January 2020. ([PDF](../files/jsac20_unf.pdf){:target="_blank"})
 
-**[J12]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Virtual Network Embedding with Guaranteed Connectivity under Multiple Substrate Link Failures. IEEE Transactions on Communications. Accepted November 2019. ([PDF](../files/tcomm20_covine.pdf){:target="_blank"})
+**[J12]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Virtual Network Embedding with Guaranteed Connectivity under Multiple Substrate Link Failures. IEEE Transactions on Communications, 68(2): 1025 - 1043, February 2020.  ([PDF](../files/tcom20_covine.pdf){:target="_blank"}, [.bib](../files/tcom20_covine.bib){:target="_blank"})
 
 **[J11]** Bari, M.F, **Chowdhury, S.R.**, and Boutaba, R. ESSO: An Energy Smart Service Function Chain Orchestrator. IEEE Transactions on Network and Service Management - Special Issue on Latest Developments for the Management of Softwarized Networks, 16(4): 1345 - 1359, December 2019. ([PDF](../files/tnsm19_esso.pdf){:target="_blank"}, [.bib](../files/tnsm19_esso.bib){:target="_blank"})
 
