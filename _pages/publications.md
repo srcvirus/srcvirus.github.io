@@ -20,7 +20,7 @@ author_profile: true
 
 **[J6]** **Chowdhury, S.R.**, Ahmed, R., Khan, M.M.A., Shahriar, N., Boutaba, R., Mitra, J., and Feng, Z. Dedicated Protection for Survivable Virtual Network Embedding. IEEE Transactions on Network and Service Management, 13(4): 913-926, December 2016. ([PDF](../files/tnsm16_drone.pdf){:target="_blank"), [.bib](../files/tnsm16_drone.bib){:target="_blank"}, [CPLEX Code](https://github.com/srcvirus/vneprotection){:target="_blank"}, [Heuristic Code](https://github.com/srcvirus/vne-protection-heuristic-2){:target="_blank"})
 
-**[J5]** Bari, M.F, **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Duarte, O. Orchestrating Virtualized Network Functions. IEEE Transactions on Network and Service Management, 13(4): 725-739, December 2016. ([PDF](../files/tnsm16_vnfop.pdf){:target="_blank"}, [.bib](../files/tnsm_vnfop.bib){:target="_blank"}, [Code](files/tnsm_vnfop.bib){:target="_blank"})
+**[J5]** Bari, M.F, **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Duarte, O. Orchestrating Virtualized Network Functions. IEEE Transactions on Network and Service Management, 13(4): 725-739, December 2016. ([PDF](../files/tnsm_vnfop.pdf){:target="_blank"}, [.bib](../files/tnsm_vnfop.bib){:target="_blank"}, [Code](files/tnsm_vnfop.bib){:target="_blank"})
 
 **[J4]** Ahmed, R., Bari, M.F., **Chowdhury, S.R.**, Rabbani, M., Boutaba, R., and Mathieu, B. αRoute: Routing on Names. IEEE/ACM Transactions on Networking, 24(5): 3070-3083, January 2016. ([PDF](../files/ton_aroute.pdf){:target="_blank"}, [.bib](../files/ton_aroute.bib){:target="_blank"})
 
@@ -36,7 +36,7 @@ author_profile: true
 
 **[C26]** Taeb, S., Shahriar, N., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Virtual Network Embedding with Path-based Latency Guarantees in Elastic Optical Networks. In proceedings of IEEE ICNP 2019, pp. 1-12. (Acceptance Rate: 19.3%) ([PDF](../files/icnp19_vnlatencyeon.pdf){:target="_blank"}, [.bib](../files/icnp19_vnlatencyeon.bib){:target="_blank"})
 
-**[C25]** Henry, B., **Chowdhury, S.R.**, Lahmadi, A,, Azais, R., Francois, J., and Boutaba, R. SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic. To appear in IEEE LCN 2019, Osnabrück, Germany. (Acceptance Rate: 28.9%) ([PDF](../files/lcn19_sponge.pdf){:target="_blank"}, [Slides](../files/lcn19_sponge_slides.pdf){:target="_blank"})
+**[C25]** Henry, B., **Chowdhury, S.R.**, Lahmadi, A,, Azais, R., Francois, J., and Boutaba, R. SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic. In proceedings of IEEE LCN 2019, pp. 193-201. Osnabrück, Germany. (Acceptance Rate: 28.9%) ([PDF](../files/lcn19_sponge.pdf){:target="_blank"}, [.bib](../files/lcn19_sponge.bib){:target="_blank"}, [Slides](../files/lcn19_sponge_slides.pdf){:target="_blank"})
 
 **[C24]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. μNF: A Disaggregated Packet Processing Architecture. In proceedings of IEEE NetSoft 2019, pp. 342-350. (Acceptance Rate: 24.7%) **[Best Paper Award]** ([PDF](../files/netsoft19_unf.pdf){:target="_blank"}, [.bib](../files/netsoft19_unf.bib){:target="_blank"}, [Slides](../files/netsoft19_unf_slides.pdf){:target="_blank"}, [Source code](https://github.com/micronf){:target="_blank"})
 
