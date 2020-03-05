@@ -32,11 +32,11 @@ author_profile: true
 
 ## Conference and Workshop papers
 
-**[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. To appear in IEEE/ACM/IFIP CNSM 2019, Halifax, Canada. (Acceptance Rate: 16.5%) **[Best Paper Award]** ([PDF](../files/cnsm19_slicing.pdf){:target="_blank"})
+**[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. In proceedings of IEEE/ACM/IFIP CNSM 2019, pp. 1-9. (Acceptance Rate: 16.5%) **[Best Paper Award]** ([PDF](../files/cnsm19_slicing.pdf){:target="_blank"})
 
 **[C26]** Taeb, S., Shahriar, N., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Virtual Network Embedding with Path-based Latency Guarantees in Elastic Optical Networks. In proceedings of IEEE ICNP 2019, pp. 1-12. (Acceptance Rate: 19.3%) ([PDF](../files/icnp19_vnlatencyeon.pdf){:target="_blank"}, [.bib](../files/icnp19_vnlatencyeon.bib){:target="_blank"})
 
-**[C25]** Henry, B., **Chowdhury, S.R.**, Lahmadi, A,, Azais, R., Francois, J., and Boutaba, R. SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic. In proceedings of IEEE LCN 2019, pp. 193-201. Osnabrück, Germany. (Acceptance Rate: 28.9%) ([PDF](../files/lcn19_sponge.pdf){:target="_blank"}, [.bib](../files/lcn19_sponge.bib){:target="_blank"}, [Slides](../files/lcn19_sponge_slides.pdf){:target="_blank"})
+**[C25]** Henry, B., **Chowdhury, S.R.**, Lahmadi, A,, Azais, R., Francois, J., and Boutaba, R. SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic. In proceedings of IEEE LCN 2019, pp. 193-201. (Acceptance Rate: 28.9%) ([PDF](../files/lcn19_sponge.pdf){:target="_blank"}, [.bib](../files/lcn19_sponge.bib){:target="_blank"}, [Slides](../files/lcn19_sponge_slides.pdf){:target="_blank"})
 
 **[C24]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. μNF: A Disaggregated Packet Processing Architecture. In proceedings of IEEE NetSoft 2019, pp. 342-350. (Acceptance Rate: 24.7%) **[Best Paper Award]** ([PDF](../files/netsoft19_unf.pdf){:target="_blank"}, [.bib](../files/netsoft19_unf.bib){:target="_blank"}, [Slides](../files/netsoft19_unf_slides.pdf){:target="_blank"}, [Source code](https://github.com/micronf){:target="_blank"})
 
