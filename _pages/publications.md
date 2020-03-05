@@ -32,7 +32,7 @@ author_profile: true
 
 ## Conference and Workshop papers
 
-**[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. In proceedings of IEEE/ACM/IFIP CNSM 2019, pp. 1-9. (Acceptance Rate: 16.5%) **[Best Paper Award]** ([PDF](../files/cnsm19_slicing.pdf){:target="_blank"})
+**[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. In proceedings of IEEE/ACM/IFIP CNSM 2019, pp. 1-9. (Acceptance Rate: 16.5%) **[Best Paper Award]** ([PDF](../files/cnsm19_slicing.pdf){:target="_blank"}, [.bib](../files/cnsm19_slicing.bib){:target="_blank"})
 
 **[C26]** Taeb, S., Shahriar, N., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Virtual Network Embedding with Path-based Latency Guarantees in Elastic Optical Networks. In proceedings of IEEE ICNP 2019, pp. 1-12. (Acceptance Rate: 19.3%) ([PDF](../files/icnp19_vnlatencyeon.pdf){:target="_blank"}, [.bib](../files/icnp19_vnlatencyeon.bib){:target="_blank"})
 
