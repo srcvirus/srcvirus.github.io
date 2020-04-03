@@ -12,7 +12,7 @@ redirect_from:
 I am a PhD candidate at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. During my PhD, I have worked as an intern at Google (USA), IBM T.J. Watson Research Center (USA), and INRIA - Nancy Grand Est (France). My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems such as peer-to-peer networks and blockchains. 
 
 ## Recent News
-- Apr 03, 2020: Collaboration with INRIA on defeating protocol abuse with P4 accepted for IFIP Networking 2020 Conference.
+- Apr 03, 2020: Our work on defeating protocol abuse with P4 (collaboration with INRIA) accepted for IFIP Networking 2020.
 - Jan 28, 2020: [&mu;NF](files/netsoft19_unf.pdf){:target="_blank"}'s extension accepted for IEEE JSAC.
 - Dec 10, 2019: Our work on disruption-minimized virtual link re-adaptation in EON has been accepted for OFC 2020, San Diego, CA, USA.
 - Nov 07, 2019: [CoViNE](files/networking16_covine.pdf){:target="_blank"}'s extention accepted for IEEE Transactions on Communications.
