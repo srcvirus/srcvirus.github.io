@@ -95,9 +95,9 @@ author_profile: true
 **[B1]** Dolberg, L., François, J., **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Engel, T. Network Configuration and Flow Scheduling for Big Data Applications. In Networking for Big Data. S. Yu, X. Lin, J. Misic, and X. Shen (editors). pp. 121-138, CRC Press, 2015 ([PDF](../files/bchapter_bigdata.pdf){:target="_blank"}, [.bib](../files/bchapter_bigdata.bib))
 
 ## Extended abstracts
-**[E2]** Shahriar, N., Zulfiqar, M., **Chowdhury, S.R.**, Taeb, S., Tornatore, M., Boutaba, R., Mitra, J, and Hemmati, M.  Disruption-minimized Re-adaptation of Virtual Links in Elastic Optical Networks. Optical Fiber Communication Conference (OFC) (Poster), San Diego, CA, USA, Mar 8 - 12, 2020.
+**[E2]** Shahriar, N., Zulfiqar, M., **Chowdhury, S.R.**, Taeb, S., Tornatore, M., Boutaba, R., Mitra, J, and Hemmati, M.  Disruption-minimized Re-adaptation of Virtual Links in Elastic Optical Networks. Optical Fiber Communication Conference (OFC) (Poster), San Diego, CA, USA, Mar 8 - 12, 2020. ([PDF](../files/ofc20_readapt.pdf){:target="_blank"}, [.bib](../files/ofc20_readapt.bib){:target="_blank"})
 
-**[E1]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. ACM SIGCOMM 2015 (Demo), London, UK, Aug 17 - 21, 2015. ([PDF](../files/sigcomm15_nfio.pdf){:target="_blank"}, [.bib](../files/sigcomm15_nfio.bib))
+**[E1]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. ACM SIGCOMM 2015 (Demo), London, UK, Aug 17 - 21, 2015. ([PDF](../files/sigcomm15_nfio.pdf){:target="_blank"}, [.bib](../files/sigcomm15_nfio.bib){:target="_blank"})
 
 ## Patents
 **[P7]** Shahriar, N., Mitra, J., Ahmed, R., **Chowdhury, S.R.**, and Boutaba, R. Methods and Systems for Failure Recovery in a Virtual Network Environment. US Patent No. 10,505,840. Granted: December 2019.
