@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal and Magazine papers
-**[J14]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Bandwidth Squeezing and Multi-path Provisioning. IEEE Transactions on Network and Service Management. Accepted April 2020. ([PDF](../files/tnsm20_slicing.pdf){:target="_blank"})
+**[J14]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications, 38(6): 1075-1088, June 2020. ([PDF](../files/jsac20_unf.pdf){:target="_blank"}, [.bib](../files/jsac20_unf.bib){:target="_blank"})
 
-**[J13]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications. Accepted January 2020. ([PDF](../files/jsac20_unf.pdf){:target="_blank"})
+**[J13]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Bandwidth Squeezing and Multi-path Provisioning. IEEE Transactions on Network and Service Management. Accepted April 2020. ([PDF](../files/tnsm20_slicing.pdf){:target="_blank"})
 
 **[J12]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Virtual Network Embedding with Guaranteed Connectivity under Multiple Substrate Link Failures. IEEE Transactions on Communications, 68(2): 1025 - 1043, February 2020.  ([PDF](../files/tcom20_covine.pdf){:target="_blank"}, [.bib](../files/tcom20_covine.bib){:target="_blank"})
 
@@ -20,7 +20,7 @@ author_profile: true
 
 **[J7]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, A., Boutaba, R., and Mitra, J. Generalized Recovery from Node Failure in Virtual Network Embedding. IEEE Transactions on Network and Service Management, 14(2): 261-274, June 2017. ([PDF](../files/tnsm17_renovate.pdf){:target="_blank"}, [.bib](../files/tnsm17_renovate.bib){:target="_blank"})
 
-**[J6]** **Chowdhury, S.R.**, Ahmed, R., Khan, M.M.A., Shahriar, N., Boutaba, R., Mitra, J., and Feng, Z. Dedicated Protection for Survivable Virtual Network Embedding. IEEE Transactions on Network and Service Management, 13(4): 913-926, December 2016. ([PDF](../files/tnsm16_drone.pdf){:target="_blank"), [.bib](../files/tnsm16_drone.bib){:target="_blank"}, [CPLEX Code](https://github.com/srcvirus/vneprotection){:target="_blank"}, [Heuristic Code](https://github.com/srcvirus/vne-protection-heuristic-2){:target="_blank"})
+**[J6]** **Chowdhury, S.R.**, Ahmed, R., Khan, M.M.A., Shahriar, N., Boutaba, R., Mitra, J., and Feng, Z. Dedicated Protection for Survivable Virtual Network Embedding. IEEE Transactions on Network and Service Management, 13(4): 913-926, December 2016. ([PDF](../files/tnsm_drone.pdf){:target="_blank"}, [.bib](../files/tnsm16_drone.bib){:target="_blank"}, [CPLEX Code](https://github.com/srcvirus/vneprotection){:target="_blank"}, [Heuristic Code](https://github.com/srcvirus/vne-protection-heuristic-2){:target="_blank"})
 
 **[J5]** Bari, M.F, **Chowdhury, S.R.**, Ahmed, R., Boutaba, R., and Duarte, O. Orchestrating Virtualized Network Functions. IEEE Transactions on Network and Service Management, 13(4): 725-739, December 2016. ([PDF](../files/tnsm_vnfop.pdf){:target="_blank"}, [.bib](../files/tnsm_vnfop.bib){:target="_blank"}, [Code](files/tnsm_vnfop.bib){:target="_blank"})
 
