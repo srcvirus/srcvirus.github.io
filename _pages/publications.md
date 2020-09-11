@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal and Magazine papers
+**[J15]** Anthony, A., **Chowdhury, S.R.**, Bai, T., Boutaba, R., and Francois, J. Non-intrusive and Workflow-aware Virtual Network Function Scheduling in User-space. IEEE Transactions on Cloud Computing. Accepted September 2020.
+
 **[J14]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Bandwidth Squeezing and Multi-path Provisioning. IEEE Transactions on Network and Service Management, 17(3): 1418-1431, September 2020. ([PDF](../files/tnsm20_slicing.pdf){:target="_blank"})
 
 **[J13]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications, 38(6): 1075-1088, June 2020. ([PDF](../files/jsac20_unf.pdf){:target="_blank"}, [.bib](../files/jsac20_unf.bib){:target="_blank"})
