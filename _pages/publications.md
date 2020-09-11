@@ -34,7 +34,7 @@ author_profile: true
 
 ## Conference and Workshop papers
 
-**[C28]** Laraba, A., Francois, J., Chrisment, I., **Chowdhury, S.R.**, and Boutaba, R. Defeating Protocol Abuse with P4: an Application to Explicit Congestion Notification. To appear in IFIP Networking 2020 Conference, Paris, France. (Acceptance Rate: 27.5%) ([PDF](../files/networking20_p4efsm.pdf){:target="_blank"})
+**[C28]** Laraba, A., Francois, J., Chrisment, I., **Chowdhury, S.R.**, and Boutaba, R. Defeating Protocol Abuse with P4: an Application to Explicit Congestion Notification. To appear in IFIP Networking 2020 Conference, pp. 431-439. (Acceptance Rate: 27.5%) ([PDF](../files/networking20_p4efsm.pdf){:target="_blank"})
 
 **[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. In proceedings of IEEE/ACM/IFIP CNSM 2019, pp. 1-9. (Acceptance Rate: 16.5%) **[Best Paper Award]** ([PDF](../files/cnsm19_slicing.pdf){:target="_blank"}, [.bib](../files/cnsm19_slicing.bib){:target="_blank"})
 
