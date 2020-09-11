@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal and Magazine papers
-**[J14]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications, 38(6): 1075-1088, June 2020. ([PDF](../files/jsac20_unf.pdf){:target="_blank"}, [.bib](../files/jsac20_unf.bib){:target="_blank"})
+**[J14]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Bandwidth Squeezing and Multi-path Provisioning. IEEE Transactions on Network and Service Management, 17(3): 1418-1431, September 2020. ([PDF](../files/tnsm20_slicing.pdf){:target="_blank"})
 
-**[J13]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Bandwidth Squeezing and Multi-path Provisioning. IEEE Transactions on Network and Service Management. Accepted April 2020. ([PDF](../files/tnsm20_slicing.pdf){:target="_blank"})
+**[J13]** **Chowdhury, S.R.**, Anthony, A., Bian, H., Bai, T., and Boutaba, R. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications, 38(6): 1075-1088, June 2020. ([PDF](../files/jsac20_unf.pdf){:target="_blank"}, [.bib](../files/jsac20_unf.bib){:target="_blank"})
 
 **[J12]** Shahriar, N., Ahmed, R., **Chowdhury, S.R.**, Khan, M.M.A, Boutaba, R., Mitra, J., and Feng, Z. Virtual Network Embedding with Guaranteed Connectivity under Multiple Substrate Link Failures. IEEE Transactions on Communications, 68(2): 1025 - 1043, February 2020.  ([PDF](../files/tcom20_covine.pdf){:target="_blank"}, [.bib](../files/tcom20_covine.bib){:target="_blank"})
 
@@ -34,7 +34,7 @@ author_profile: true
 
 ## Conference and Workshop papers
 
-**[C28]** Laraba, A., Francois, J., Chrisment, I., **Chowdhury, S.R.**, and Boutaba, R. Defeating Protocol Abuse with P4: an Application to Explicit Congestion Notification. To appear in IFIP Networking 2020 Conference, Paris, France. (Acceptance Rate: 27.5%) ([PDF](../files/networking20_p4efsm.pdf){:target="_blank"}
+**[C28]** Laraba, A., Francois, J., Chrisment, I., **Chowdhury, S.R.**, and Boutaba, R. Defeating Protocol Abuse with P4: an Application to Explicit Congestion Notification. To appear in IFIP Networking 2020 Conference, Paris, France. (Acceptance Rate: 27.5%) ([PDF](../files/networking20_p4efsm.pdf){:target="_blank"})
 
 **[C27]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Dedicated Protection. In proceedings of IEEE/ACM/IFIP CNSM 2019, pp. 1-9. (Acceptance Rate: 16.5%) **[Best Paper Award]** ([PDF](../files/cnsm19_slicing.pdf){:target="_blank"}, [.bib](../files/cnsm19_slicing.bib){:target="_blank"})
 
