@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal and Magazine papers
+**[J16]** Laraba, A., Francois, J., **Chowdhury, S.R.**, Chrisment, I., and Boutaba, R. Mitigating TCP Protocol Misuse with Programmable Data Planes. IEEE Transactions on Network and Service Management. Accepted December 2020.
+
 **[J15]** Anthony, A., **Chowdhury, S.R.**, Bai, T., Boutaba, R., and Francois, J. Non-intrusive and Workflow-aware Virtual Network Function Scheduling in User-space. IEEE Transactions on Cloud Computing. Accepted September 2020. ([PDF](../files/tcc20_unis.pdf){:target="_blank"})
 
 **[J14]** Shahriar, N., Taeb, S., **Chowdhury, S.R.**, Zulfiqar, M., Tornatore, M., Mitra, J., and Hemmati, M. Reliable Slicing of 5G Transport Networks with Bandwidth Squeezing and Multi-path Provisioning. IEEE Transactions on Network and Service Management, 17(3): 1418-1431, September 2020. ([PDF](../files/tnsm20_slicing.pdf){:target="_blank"}, [.bib](../files/tnsm20_slicing.bib){:target="_blank"})
