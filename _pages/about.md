@@ -9,20 +9,21 @@ redirect_from:
 ---
 
 ## About me
-I am a PhD candidate at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. During my PhD, I have worked as an intern at Google (USA), IBM T.J. Watson Research Center (USA), and INRIA - Nancy Grand Est (France). My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems such as peer-to-peer networks and blockchains. 
+I am a PhD candidate at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. During my PhD, I have worked as an intern at Google (USA), IBM T.J. Watson Research Center (USA), and INRIA - Nancy Grand Est (France). My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems. 
 
 ## Recent News
-- Dec 22, 2020: Extension of our work on mitigating TCP protocol misuse accepted for IEEE TNSM.
-- Dec 10, 2020: LINT accepted for IFIP/IEEE IM 2021.
-- Sep 11, 2020: [UNiS](files/cnsm18_unis.pdf){:target="_blank"}'s extension accepted for IEEE TCC.
-- Apr 16, 2020: Our work on reliable 5G slicing has been accepted for IEEE TNSM.
-- Apr 03, 2020: Our work on defeating protocol abuse with P4 (collaboration with INRIA) accepted for IFIP Networking 2020.
-<!-- - Jan 28, 2020: [&mu;NF](files/netsoft19_unf.pdf){:target="_blank"}'s extension accepted for IEEE JSAC. -->
-<!-- - Dec 10, 2019: Our work on disruption-minimized virtual link re-adaptation in EON has been accepted for OFC 2020, San Diego, CA, USA. -->
-<!-- - Nov 07, 2019: [CoViNE](files/networking16_covine.pdf){:target="_blank"}'s extention accepted for IEEE Transactions on Communications.-->
+- Jan 27, 2021: Extension of our work on network slice scaling accepted to IEEE JSAC.
+- Dec 22, 2020: Extension of our work on mitigating TCP protocol misuse accepted to IEEE TNSM.
+- Dec 10, 2020: LINT accepted to IFIP/IEEE IM 2021.
+- Sep 11, 2020: [UNiS](files/cnsm18_unis.pdf){:target="_blank"}'s extension accepted to IEEE TCC.
+- Apr 16, 2020: Our work on reliable 5G slicing has been accepted to IEEE TNSM.
+<!-- - Apr 03, 2020: Our work on defeating protocol abuse with P4 (collaboration with INRIA) accepted to IFIP Networking 2020. -->
+<!-- - Jan 28, 2020: [&mu;NF](files/netsoft19_unf.pdf){:target="_blank"}'s extension accepted to IEEE JSAC. -->
+<!-- - Dec 10, 2019: Our work on disruption-minimized virtual link re-adaptation in EON has been accepted to OFC 2020, San Diego, CA, USA. -->
+<!-- - Nov 07, 2019: [CoViNE](files/networking16_covine.pdf){:target="_blank"}'s extention accepted to IEEE Transactions on Communications.-->
 <!-- - Oct 25, 2019: [Best paper award](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"} at IEEE/ACM/IFIP CNSM 2019, Halifax, Canada. -->
-<!-- - Sep 23, 2019: ESSO accepted for IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.-->
-<!-- - Aug 03, 2019: Our work on reliable slicing of 5G transport networks has been accepted for IEEE/ACM/IFIP CNSM 2019, Halifax, Canada. -->
+<!-- - Sep 23, 2019: ESSO accepted to IEEE Transaction on Network and Service Management - Speical Issue on Latest Developments for the Management of Softwarized Networks.-->
+<!-- - Aug 03, 2019: Our work on reliable slicing of 5G transport networks has been accepted to IEEE/ACM/IFIP CNSM 2019, Halifax, Canada. -->
 <!-- - Jul 19, 2019: Our work on low-latency EON slice provisioning has been accepted for IEEE ICNP 2019, Chicago, IL, USA.-->
 <!-- <li>Jul 08, 2019: SPONGE accepted for IEEE LCN 2019, Osnabrück, Germany. </li> -->
 <!-- <li>Jun 27, 2019: &mu;NF awarded the best paper at IEEE NetSoft 2018, Paris, France.</li> -->
