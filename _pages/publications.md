@@ -6,7 +6,7 @@ author_profile: true
 ## Journal and Magazine papers
 **[J17]** Shahriar, N., Zulfiqar, M., **Chowdhury, S.R.**, Taeb, S., Tornatore, M., Boutaba, R., Mitra, J, and Hemmati, M.  Disruption Minimized Bandwidth Scaling in EON-enabled Transport Network Slices. IEEE Journal on Selected Areas in Communications - Special Issue on Latest Advances in Optical Networks for 5G Communications and Beyond. Accepted January 2021.
 
-**[J16]** Laraba, A., Francois, J., **Chowdhury, S.R.**, Chrisment, I., and Boutaba, R. Mitigating TCP Protocol Misuse with Programmable Data Planes. IEEE Transactions on Network and Service Management. Accepted December 2020.
+**[J16]** Laraba, A., Francois, J., **Chowdhury, S.R.**, Chrisment, I., and Boutaba, R. Mitigating TCP Protocol Misuse with Programmable Data Planes. IEEE Transactions on Network and Service Management. Accepted December 2020. ([PDF](../files/tnsm21_p4efsm.pdf){:target="_blank"})
 
 **[J15]** Anthony, A., **Chowdhury, S.R.**, Bai, T., Boutaba, R., and Francois, J. Non-intrusive and Workflow-aware Virtual Network Function Scheduling in User-space. IEEE Transactions on Cloud Computing. Accepted September 2020. ([PDF](../files/tcc20_unis.pdf){:target="_blank"})
 
