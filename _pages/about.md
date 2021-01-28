@@ -13,7 +13,7 @@ I am a PhD candidate at the [David R. Cheriton School of Computer Science](https
 
 ## Recent News
 - Jan 27, 2021: Extension of our work on network slice scaling accepted to IEEE JSAC.
-- Dec 22, 2020: Extension of our work on mitigating TCP protocol misuse accepted to IEEE TNSM.
+- Dec 22, 2020: Our work on mitigating TCP protocol misuse accepted to IEEE TNSM.
 - Dec 10, 2020: LINT accepted to IFIP/IEEE IM 2021.
 - Sep 11, 2020: [UNiS](files/cnsm18_unis.pdf){:target="_blank"}'s extension accepted to IEEE TCC.
 - Apr 16, 2020: Our work on reliable 5G slicing has been accepted to IEEE TNSM.
