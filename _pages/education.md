@@ -14,7 +14,7 @@ Supervisor: [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_bl
 Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan){:target="_blank"} and [Prof. M. Sohel Rahman](https://msrahman.buet.ac.bd/){:target="_blank"}
 
 ## Work experience
-- **Staff Researcher**, Feb'21 - present
+- **Staff Researcher**, Feb'21 - present  
 Distributed Scheduling and Data Engine Lab, Huawei Research Canada
 - **Teaching and Research Assistant**, May'12 - Feb'21  
 University of Waterloo, Canada
