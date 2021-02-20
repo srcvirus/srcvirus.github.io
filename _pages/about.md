@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 ## About me
-I am a PhD candidate at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. During my PhD, I have worked as an intern at Google (USA), IBM T.J. Watson Research Center (USA), and INRIA - Nancy Grand Est (France). My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems. 
+I am a Staff Researcher with the Distributed Scheduling and Data Engine Lab at Huawei Research Canada. I obtained PhD from the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}. During my PhD, I have worked as an intern at Google (USA), IBM T.J. Watson Research Center (USA), and INRIA - Nancy Grand Est (France). My research spans several areas of systems and networking, including network functions virtualization, network virtualization, software-defined networking, and large scale decentralized systems. 
 
 ## Recent News
+- Feb 16, 2021: Defended PhD thesis.
 - Jan 27, 2021: Extension of our work on network slice scaling accepted to IEEE JSAC.
 - Dec 22, 2020: Our work on mitigating TCP protocol misuse accepted to IEEE TNSM.
 - Dec 10, 2020: LINT accepted to IFIP/IEEE IM 2021.
 - Sep 11, 2020: [UNiS](files/cnsm18_unis.pdf){:target="_blank"}'s extension accepted to IEEE TCC.
-- Apr 16, 2020: Our work on reliable 5G slicing has been accepted to IEEE TNSM.
+<!-- - Apr 16, 2020: Our work on reliable 5G slicing has been accepted to IEEE TNSM. -->
 <!-- - Apr 03, 2020: Our work on defeating protocol abuse with P4 (collaboration with INRIA) accepted to IFIP Networking 2020. -->
 <!-- - Jan 28, 2020: [&mu;NF](files/netsoft19_unf.pdf){:target="_blank"}'s extension accepted to IEEE JSAC. -->
 <!-- - Dec 10, 2019: Our work on disruption-minimized virtual link re-adaptation in EON has been accepted to OFC 2020, San Diego, CA, USA. -->
