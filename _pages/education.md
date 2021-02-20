@@ -4,8 +4,9 @@ title: ""
 author_profile: true
 ---
 ## Education
-- PhD in Computer Science, May 2012 - Present  
+- PhD in Computer Science, May 2012 - Feb 2021  
 [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada  
+Dissertation: Resource Management in Softwarized Networks
 Supervisor: [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}
 
 - B.Sc. (Hons.) in Computer Science and Engineering, October 2009  
@@ -13,7 +14,9 @@ Supervisor: [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_bl
 Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan){:target="_blank"} and [Prof. M. Sohel Rahman](https://msrahman.buet.ac.bd/){:target="_blank"}
 
 ## Work experience
-- **Teaching and Research Assistant**, May'12 - present  
+- **Staff Researcher**, Feb'21 - present
+Distributed Scheduling and Data Engine Lab, Huawei Research Canada
+- **Teaching and Research Assistant**, May'12 - Feb'21  
 University of Waterloo, Canada
 - **Summer Research Intern (RESIST team)**, Jun'18 - Aug'18  
 INRIA - Nancy Grand Est, France
