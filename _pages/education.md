@@ -35,7 +35,8 @@ AfriGIS Bangladesh
 
 ## Professional Services
 ### Technical Program Committee (TPC) member
-- 2020: IEEE NetSoft, IEEE/IFIP NOMS
+- 2021: IEEE NetSoft
+- 2020: IEEE NetSoft, IEEE/IFIP NOMS, ACM ICN (Poster and Demo)
 - 2019: IEEE NetSoft
 
 ### External reviewer
