@@ -12,7 +12,7 @@ redirect_from:
 I am a Staff Researcher with the Distributed Scheduling and Data Engine Lab at Huawei Research Canada. I obtained the PhD degree in Computer Science from the [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}, and the B.Sc. degree in computer science and engineering from the Bangladesh University of Engineering and Technology (BUET). In the past, I interned at Google and IBM Research – USA, and INRIA – France. I was also a Lecturer of computer science and engineering at BUET. My research interests span several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and large-scale decentralized systems. I received several recognitions for my research including, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the best paper runner-up award at the IEEE ICDCS HotPOST workshop 2013.
 
 ## Recent News
-- Mar 10, 2021: Received [IEEE Transactions Outstanding Reviewer Award 2020]{:target="_blank"}(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9374864).
+- Mar 10, 2021: Received [IEEE Transactions Outstanding Reviewer Award 2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9374864){:target="_blank"}.
 - Feb 16, 2021: Defended PhD thesis.
 - Feb 01, 2021: Started a Staff Researcher position with Huawei Research Canada.
 - Jan 27, 2021: Extension of our work on network slice scaling accepted to IEEE JSAC.
