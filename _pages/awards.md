@@ -9,7 +9,13 @@ title: "Awards and Achievements"
 - [**Best Paper Award**](https://cs.uwaterloo.ca/news/professor-raouf-boutaba-postdocs-graduate-students-and){:target="_blank"}, 13th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2017, Tokyo, Japan
 - **Best Paper Runner-up Award**, 5th International Workshop on Peer-to-Peer Computing and Online Social Networking (HotPOST) 2013, held in conjunction with IEEE ICDCS 2013
 
-## Teaching awards
+## Honorable mention for the best paper award 
+- 15th IEEE/IFIP Network Operations and Management Symposium (NOMS), 2016, Istanbul, Turkey
+- 12th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM), 2016, Montreal, Canada
+- 9th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM), 2013, Zurich, Switzerland
+
+## Service awards
+- [**IEEE Transactions Outstanding Reviewer Award 2020**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9374864){:target="_blank"}.
 - **Best Teaching Assistant Award (Winter 2018)**, David R. Cheriton School of Computer Science, 2018
 
 ## Scholarships and funding during PhD 
