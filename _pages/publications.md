@@ -107,19 +107,18 @@ author_profile: true
 **[E1]** Bari, M.F., **Chowdhury, S.R.**, Ahmed, R., and Boutaba, R. nf.io: A File System Abstraction for NFV Orchestration. ACM SIGCOMM 2015 (Demo), London, UK, Aug 17 - 21, 2015. ([PDF](../files/sigcomm15_nfio.pdf){:target="_blank"}, [.bib](../files/sigcomm15_nfio.bib){:target="_blank"})
 
 ## Patents
-**[P7]** Shahriar, N., Khan, A., Ahmed, R., Mitra, J., **Chowdhury, S.R.**, and Boutaba, R. System and Method for Joint Embedding and Backup Provisioning in Virtual Networks. US Patent No. 10,873,502. Granted: December 2020.
+**[P8]** **Chowdhury, S.R.**, Ahmed, R., Mitra, J., Shahriar, N., Boutaba, R., and Ayoubi, S. Multi-layer Virtual Network Embedding. US Patent No. 10,951,317. Issued: March 16, 2021.
 
-**[P6]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Taeb, S., Mitra, J., and Hemmati, M. Method and system for reliability-aware embedding of a virtual network onto an elastic optical network. US Patent No. 10,841,183. Granted: November 2020.
+**[P7]** Shahriar, N., Khan, A., Ahmed, R., Mitra, J., **Chowdhury, S.R.**, and Boutaba, R. System and Method for Joint Embedding and Backup Provisioning in Virtual Networks. US Patent No. 10,873,502. Issued: December 22, 2020.
 
-**[P5]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Zulfiqar, M., Mitra, J. and Hemmati, M. System andmethod for elastic optical networks. US Patent Application No. 16/813,679. Filed: March 2020.
+**[P6]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Taeb, S., Mitra, J., and Hemmati, M. Method and system for reliability-aware embedding of a virtual network onto an elastic optical network. US Patent No. 10,841,183. Issued: November 17, 2020.
 
-**[P4]** Shahriar, N., Mitra, J., Ahmed, R., **Chowdhury, S.R.**, and Boutaba, R. Methods and Systems for Failure Recovery in a Virtual Network Environment. US Patent No. 10,505,840. Granted: December 2019.
+**[P5]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Zulfiqar, M., Mitra, J. and Hemmati, M. System andmethod for elastic optical networks. US Patent Application No. 16/813,679. Filed: March 09, 2020.
 
-**[P3]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Mitra, J., and Hemmati, M. Method and systemfor latency-aware embedding of a virtual network onto a substrate optical network. US Patent Application No. 16/600,103. Filed: October 2019.
+**[P4]** Shahriar, N., Mitra, J., Ahmed, R., **Chowdhury, S.R.**, and Boutaba, R. Methods and Systems for Failure Recovery in a Virtual Network Environment. US Patent No. 10,505,840. Issued: December 10, 2019.
 
-**[P2]** Ahmed, R., Mitra, J., **Chowdhury, S.R.**, Shahriar, N., and Boutaba, R. Dedicated Protection for Virtual Network Embedding. US Patent No. 10,313,195. Granted June 2019.
+**[P3]** Shahriar, N., **Chowdhury, S.R.**, Boutaba, R., Mitra, J., and Hemmati, M. Method and system for latency-aware embedding of a virtual network onto a substrate optical network. US Patent Application No. 16/600,103. Filed: October 18, 2019.
 
-**[P1]** Ahmed, R., Mitra, J., **Chowdhury, S.R.**, Shahriar, N., and Boutaba, R. Connectivity-aware virtual network embedding. U.S. Patent No. 9,813,287. Granted November 2017.
+**[P2]** Ahmed, R., Mitra, J., **Chowdhury, S.R.**, Shahriar, N., and Boutaba, R. Dedicated Protection for Virtual Network Embedding. US Patent No. 10,313,195. Issued: June 04, 2019.
 
-<!--**[P1]** **Chowdhury, S.R.**, Ahmed, R., Mitra, J., Shahriar, N., Boutaba, R., and Ayoubi, S. Multi-layer Virtual Network Embedding. US Patent Application No. 15/815,871. Filed: November 2017.-->
-
+**[P1]** Ahmed, R., Mitra, J., **Chowdhury, S.R.**, Shahriar, N., and Boutaba, R. Connectivity-aware virtual network embedding. U.S. Patent No. 9,813,287. Issued: November 07, 2017.
