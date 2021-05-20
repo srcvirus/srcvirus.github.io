@@ -13,10 +13,11 @@ I am a Staff Researcher with the Distributed Scheduling and Data Engine Lab at H
 
 ## Recent News
 - May 20, 2021: Received IEEE CNOM Young Professional Award 2021.
+- May 19, 2021: Presented LINT at IFIP/IEEE IM 2021.
 - Mar 10, 2021: Received [IEEE Transactions Outstanding Reviewer Award 2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9374864){:target="_blank"}.
 - Feb 16, 2021: Defended PhD thesis.
-- Feb 01, 2021: Started a Staff Researcher position with Huawei Research Canada.
-- Jan 27, 2021: Extension of our work on network slice scaling accepted to IEEE JSAC.
+- Feb 01, 2021: Started a Staff Researcher position with Huawei Research Canada. 
+<!-- - Jan 27, 2021: Extension of our work on network slice scaling accepted to IEEE JSAC. -->
 <!-- - Dec 22, 2020: Our work on mitigating TCP protocol misuse accepted to IEEE TNSM.-->
 <!-- - Dec 10, 2020: LINT accepted to IFIP/IEEE IM 2021. -->
 <!-- - Sep 11, 2020: [UNiS](files/cnsm18_unis.pdf){:target="_blank"}'s extension accepted to IEEE TCC. -->
