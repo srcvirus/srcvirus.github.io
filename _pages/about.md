@@ -12,11 +12,12 @@ redirect_from:
 I am a Staff Researcher with the Distributed Scheduling and Data Engine Lab at Huawei Research Canada. I obtained the PhD degree in Computer Science from the [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, supervised by [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}, and the B.Sc. degree in computer science and engineering from the Bangladesh University of Engineering and Technology (BUET). In the past, I interned at Google and IBM Research – USA, and INRIA – France. I was also a Lecturer of computer science and engineering at BUET. My research interests span several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and large-scale decentralized systems. I received several recognitions for my research including, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the best paper runner-up award at the IEEE ICDCS HotPOST workshop 2013.
 
 ## Recent News
+- May 20, 2021: Received IEEE CNOM Young Professional Award 2021.
 - Mar 10, 2021: Received [IEEE Transactions Outstanding Reviewer Award 2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9374864){:target="_blank"}.
 - Feb 16, 2021: Defended PhD thesis.
 - Feb 01, 2021: Started a Staff Researcher position with Huawei Research Canada.
 - Jan 27, 2021: Extension of our work on network slice scaling accepted to IEEE JSAC.
-- Dec 22, 2020: Our work on mitigating TCP protocol misuse accepted to IEEE TNSM.
+<!-- - Dec 22, 2020: Our work on mitigating TCP protocol misuse accepted to IEEE TNSM.-->
 <!-- - Dec 10, 2020: LINT accepted to IFIP/IEEE IM 2021. -->
 <!-- - Sep 11, 2020: [UNiS](files/cnsm18_unis.pdf){:target="_blank"}'s extension accepted to IEEE TCC. -->
 <!-- - Apr 16, 2020: Our work on reliable 5G slicing has been accepted to IEEE TNSM. -->
