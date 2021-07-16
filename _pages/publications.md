@@ -39,6 +39,8 @@ author_profile: true
 **[J1]** **Chowdhury, S.R.** , Hasan, M.M., Iqbal, S., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. Fundamenta Informaticae, IOS Press 129(4): 329-340, 2014. ([PDF](../files/fi_lcps.pdf){:target="_blank"}, [.bib](../files/fi_lcps.bib){:target="_blank"})
 
 ## Conference and Workshop papers
+**[C31]** Taeb, S., Shahriar, N., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Reoptimizing Network Slice Embedding on EON-enabled Transport Networks. To appear in IEEE/ACM/IFIP CNSM 2021, Izmir, Turkey, 25-29 October, 2021. (Acceptance Rate: 19.3%)
+
 **[C30]** Boutaba, R., Shahriar, N., Salahuddin, M.A., **Chowdhury, S.R.**, Saha, N., and James, A. AI-driven Closed-loop Automation in 5G and beyond Mobile Networks. To appear in ACM SIGCOMM FlexNets Workshop 2021 (invited), Virtual Event. 
 
 **[C29]** **Chowdhury, S.R.**, Boutaba, R., and Francois, J. LINT: Accuracy-adaptive and Lightweight In-band Network Telemetry. In proceedings of IFIP/IEEE IM 2021, pp. 349-357.  ([PDF](../files/im21_lint.pdf){:target="_blank"})
