@@ -39,7 +39,9 @@ author_profile: true
 **[J1]** **Chowdhury, S.R.** , Hasan, M.M., Iqbal, S., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. Fundamenta Informaticae, IOS Press 129(4): 329-340, 2014. ([PDF](../files/fi_lcps.pdf){:target="_blank"}, [.bib](../files/fi_lcps.bib){:target="_blank"})
 
 ## Conference and Workshop papers
-**[C29]** **Chowdhury, S.R.**, Boutaba, R., and Francois, J. LINT: Accuracy-adaptive and Lightweight In-band Network Telemetry. To appear in IFIP/IEEE IM 2021, Bordeaux, France, May 17-21, 2021. ([PDF](../files/im21_lint.pdf){:target="_blank"})
+**[C30]** Boutaba, R., Shahriar, N., Salahuddin, M.A., **Chowdhury, S.R.**, Saha, N., and James, A. AI-driven Closed-loop Automation in 5G and beyond Mobile Networks. To appear in ACM SIGCOMM FlexNets Workshop 2021 (invited), Virtual Event. 
+
+**[C29]** **Chowdhury, S.R.**, Boutaba, R., and Francois, J. LINT: Accuracy-adaptive and Lightweight In-band Network Telemetry. In proceedings of IFIP/IEEE IM 2021, pp. 349-357.  ([PDF](../files/im21_lint.pdf){:target="_blank"})
 
 **[C28]** Laraba, A., Francois, J., Chrisment, I., **Chowdhury, S.R.**, and Boutaba, R. Defeating Protocol Abuse with P4: an Application to Explicit Congestion Notification. In proceedings of IFIP Networking 2020 Conference, pp. 431-439. (Acceptance Rate: 27.5%) ([PDF](../files/networking20_p4efsm.pdf){:target="_blank"})
 
