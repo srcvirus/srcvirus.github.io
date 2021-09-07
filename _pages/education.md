@@ -4,17 +4,23 @@ title: ""
 author_profile: true
 ---
 ## Education
-- PhD in Computer Science, May 2012 - Feb 2021  
+- PhD in Computer Science, Sep 2013 - Feb 2021  
 [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada  
 Dissertation: Resource Management in Softwarized Networks
 Supervisor: [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}
+
+- MMath in Computer Science, May 2012 - Aug 2013  
+[David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca){:target="_blank"}, [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada  
+Fast-tracked to the PhD program in Computer Science from Fall'13
 
 - B.Sc. (Hons.) in Computer Science and Engineering, October 2009  
 [Department of CSE](https://cse.buet.ac.bd/){:target="_blank"}, BUET, Bangladesh  
 Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan){:target="_blank"} and [Prof. M. Sohel Rahman](https://msrahman.buet.ac.bd/){:target="_blank"}
 
 ## Work experience
-- **Staff Researcher**, Feb'21 - present  
+- **Senior Data/ML Engineer**, Aug'21 - present
+AI/ML - Siri Search, Knowledge and Platform, Apple, Seattle, WA, USA
+- **Staff Researcher**, Feb'21 - Jun'21  
 Distributed Scheduling and Data Engine Lab, Huawei Research Canada
 - **Teaching and Research Assistant**, May'12 - Feb'21  
 University of Waterloo, Canada
