@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 ## About me
-I am a Staff Researcher at Huawei Research Canada. I completed my PhD in Computer Science from [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, under the supervision of [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}, and B.Sc. in computer science and engineering from Bangladesh University of Engineering and Technology (BUET). During graduate school I interned at Google and IBM Research – USA, and INRIA – France. My work spans several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and cloud computing. I received several recognitions for my work including, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the 2021  IEEE ComSoc CNOM Young Professional Award.
+I am a Senior Data Engineer at Apple. Before that I worked as a Researcher with Huawei Research Canada. I completed my PhD in Computer Science from [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, under the supervision of [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}, and B.Sc. in computer science and engineering from Bangladesh University of Engineering and Technology (BUET). During graduate school I interned at Google and IBM Research – USA, and INRIA – France. My work spans several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and cloud computing. I received several recognitions for my work including, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the 2021  IEEE ComSoc CNOM Young Professional Award.
 
 ## Recent News
-- May 20, 2021: Received IEEE ComSoc CNOM Young Professional Award 2021.
+- Aug 30, 2021: Started working at Apple.
+- Jul 16, 2021: Our work on re-optimizing network slice embedding accepted to IEEE/ACM/IFIP CNSM 2021.
+- May 20, 2021: Received [IEEE ComSoc CNOM Young Professional Award 2021](https://cnom.committees.comsoc.org/cnom-young-professional-award/){:target="_blank"}.
 - May 19, 2021: Presented LINT at IFIP/IEEE IM 2021.
 - Mar 10, 2021: Received [IEEE Transactions Outstanding Reviewer Award 2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9374864){:target="_blank"}.
-- Feb 16, 2021: Defended PhD thesis.
-- Feb 01, 2021: Started a Staff Researcher position with Huawei Research Canada. 
+<!-- - Feb 16, 2021: Defended PhD thesis. -->
+<!-- - Feb 01, 2021: Started a Staff Researcher position with Huawei Research Canada. -->
 <!-- - Jan 27, 2021: Extension of our work on network slice scaling accepted to IEEE JSAC. -->
 <!-- - Dec 22, 2020: Our work on mitigating TCP protocol misuse accepted to IEEE TNSM.-->
 <!-- - Dec 10, 2020: LINT accepted to IFIP/IEEE IM 2021. -->
