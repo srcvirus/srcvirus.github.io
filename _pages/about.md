@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am a Senior Data Engineer at Apple. Before that I worked as a Researcher with Huawei Research Canada. I completed my PhD in Computer Science from [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, Canada, under the supervision of [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca){:target="_blank"}, and B.Sc. in computer science and engineering from Bangladesh University of Engineering and Technology (BUET). During graduate school I interned at Google and IBM Research – USA, and INRIA – France. My work spans several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and cloud computing. I received several recognitions for my work including, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the 2021  IEEE ComSoc CNOM Young Professional Award.
+I am a Senior Data/ML Engineer at Apple. I completed PhD in Computer Science from the [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, and B.Sc. in computer science and engineering from the Bangladesh University of Engineering and Technology (BUET). During graduate school I interned at Google and IBM Research – USA, and INRIA – France. My work spans several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and cloud computing. I received several recognitions for my work including, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the 2021  IEEE ComSoc CNOM Young Professional Award.
 
 ## Recent News
 - Aug 30, 2021: Started working at Apple.
