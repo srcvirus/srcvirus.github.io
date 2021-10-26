@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am a Senior Data/ML Engineer at Apple. I completed PhD in Computer Science from the [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, and B.Sc. in computer science and engineering from the Bangladesh University of Engineering and Technology (BUET). During graduate school I interned at Google and IBM Research – USA, and INRIA – France. My work spans several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and cloud computing. I received several recognitions for my work including, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the 2021  IEEE ComSoc CNOM Young Professional Award.
+I am a Senior Data Engineer at Apple. I completed PhD in Computer Science from the [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, and B.Sc. in computer science and engineering from the Bangladesh University of Engineering and Technology (BUET). During graduate school I interned at Google and IBM Research – USA, and INRIA – France. My work spans several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and cloud computing. I received several recognitions for my work including, the 2021 University of Waterloo Alumni Gold medal, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the 2021  IEEE ComSoc CNOM Young Professional Award.
 
 ## Recent News
 - Oct 21, 2021: Received [2021 University of Waterloo Alumni Gold medal](https://cs.uwaterloo.ca/news/shihab-r-chowdhury-awarded-2021-alumni-gold-medal).
