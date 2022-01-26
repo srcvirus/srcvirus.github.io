@@ -39,6 +39,8 @@ author_profile: true
 **[J1]** **Chowdhury, S.R.** , Hasan, M.M., Iqbal, S., and Rahman, M.S. Computing a Longest Common Palindromic Subsequence. Fundamenta Informaticae, IOS Press 129(4): 329-340, 2014. ([PDF](../files/fi_lcps.pdf){:target="_blank"}, [.bib](../files/fi_lcps.bib){:target="_blank"})
 
 ## Conference and Workshop papers
+**[C33]** **Chowdhury, S.R.**, and Boutaba, R. Resource Management in Softwarized Networks. To appear in IEEE/IFIP NOMS 2022 (Dissertation digest), Budapest, Hungary, 25-29 April, 2022.
+
 **[C32]** Laraba, A., Francois, J., Chrisment, I., **Chowdhury, S.R.**, and Boutaba, R. Detecting Multi-Step Attacks: A Modular Approach for Programmable Data Plane. To appear in IEEE/IFIP NOMS 2022, Budapest, Hungary, 25-29 April, 2022.
 
 **[C31]** Taeb, S., Shahriar, N., **Chowdhury, S.R.**, Tornatore, M., Boutaba, R., Mitra, J., and Hemmati, M. Reoptimizing Network Slice Embedding on EON-enabled Transport Networks. To appear in IEEE/ACM/IFIP CNSM 2021, Izmir, Turkey, 25-29 October, 2021. (Acceptance Rate: 19.3%)
