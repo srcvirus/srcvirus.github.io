@@ -18,8 +18,8 @@ Fast-tracked to the PhD program in Computer Science from Fall'13
 Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan){:target="_blank"} and [Prof. M. Sohel Rahman](https://msrahman.buet.ac.bd/){:target="_blank"}
 
 ## Work experience
-- **Senior Data Engineer**, Aug'21 - present  
-AI/ML - Siri Search, Knowledge and Platform, Apple, Seattle, WA, USA
+- **Senior Software Engineer**, Aug'21 - present  
+AI/ML - Knowledge Platform, Apple, Seattle, WA, USA
 - **Staff Researcher**, Feb'21 - Jun'21  
 Distributed Scheduling and Data Engine Lab, Huawei Research Canada
 - **Teaching and Research Assistant**, May'12 - Feb'21  
