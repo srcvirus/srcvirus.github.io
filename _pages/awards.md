@@ -5,6 +5,7 @@ title: "Awards and Achievements"
 ---
 ## Dissertation award
 - **2021 Alumni Gold Medal** for outstanding performance in a doctoral program, University of Waterloo, Canada. ([CS News](https://cs.uwaterloo.ca/news/shihab-r-chowdhury-awarded-2021-alumni-gold-medal), [Math news](https://uwaterloo.ca/math/news/computer-science-phd-graduate-shihab-chowdhury-wins-2021), [UWaterloo daily bulletin](https://uwaterloo.ca/daily-bulletin/2021-10-22#shihab-chowdhury-awarded-2021-alumni-gold-medal), [Fall'21 Convocation Address](https://youtu.be/YqKvx0LdzxM?t=2152))
+- **Best Dissertation Award**, IEEE/IFIP Network Operations and Management Symposium (NOMS) 2022.
 
 ## Publication awards 
 - [**Best Paper Award**](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"}, 15th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2019, Halifax, Canada
