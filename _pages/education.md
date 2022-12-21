@@ -43,13 +43,18 @@ AfriGIS Bangladesh
 ### Co-chair
 - 2022: IEEE/IFIP NOMS Doctoral Symposium
 
-### Technical Program Committee (TPC) member
-- 2022: IEEE NetSoft, IEEE/IFIP NOMS
+### Conference Technical Program Committee (TPC) member
+- 2023: IEEE/IFIP NOMS, IEEE NetSoft
+- 2022: IEEE/IFIP NOMS, IEEE NetSoft
 - 2021: IEEE NetSoft
-- 2020: IEEE NetSoft, IEEE/IFIP NOMS, ACM ICN (Poster and Demo)
+- 2020: IEEE/IFIP NOMS, IEEE NetSoft, ACM ICN (Poster and Demo)
 - 2019: IEEE NetSoft
+
+### Journal Technical Review Board Member
+- IEEE Transactions on Parallel and Distributed Systems (2021 - present)
 
 ### External reviewer
 - **Project**: FONDECYT-CHILE – National Fund for Scientific and Technological Development (Chile)
-- **Journals**: IEEE Journal on Selected Areas in Communications, IEEE/ACM Transactions on Networking, ACM Computing Surveys, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Network and Service Management, IEEE Transactions on Communications, IEEE Transactions on Cloud Computing, IEEE Communications Magazine, IEEE Network, IEEE Communication Letters,  IEEE Access, Elsevier Computer Networks, Elsevier Computer Communications, Springer Journal of Network and Systems Management
+- Technical review board: IEEE Transactions on Parallel and Distributed Systems   
+- **Journals**: IEEE Journal on Selected Areas in Communications, IEEE/ACM Transactions on Networking, ACM Computing Surveys, IEEE Transactions on Network and Service Management, IEEE Transactions on Communications, IEEE Transactions on Cloud Computing, IEEE Communications Magazine, IEEE Network, IEEE Communication Letters,  IEEE Access, Elsevier Computer Networks, Elsevier Computer Communications, Springer Journal of Network and Systems Management
 - **Conferences**: IEEE ICDCS (2016,  2019),  IFIP  Networking  (2014,  2015,  2018,  2019), IEEE/ACM/IFIP CNSM (2015, 2017), IEEE NetSoft 2018, IEEE/IFIP IM (2017, 2019), IEEE ICC2017, IEEE/IFIP NOMS (2014, 2016, 2018), IEEE NFV-SDN (2016, 2017), IEEE CloudNet 2017, IEEE SDN4FNS 2013, IEEE CCGrid 2014, IEEE WCNC 2018, IEEE ISNCC 2018, WALCOM2011.
