@@ -19,7 +19,7 @@ Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan
 
 ## Work experience
 - **Senior Software Engineer**, Aug'21 - present  
-AI/ML - Knowledge Platform, Apple, Seattle, WA, USA
+AIML - Knowledge Platform, Apple, Seattle, WA, USA
 - **Staff Researcher**, Feb'21 - Jun'21  
 Distributed Scheduling and Data Engine Lab, Huawei Research Canada
 - **Teaching and Research Assistant**, May'12 - Feb'21  
