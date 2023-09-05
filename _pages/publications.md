@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal and Magazine papers
+**[J19]** H. Ren, A. Mousavi, A. Pacaci, **S. R. Chowdhury**, J. Mohoney, I. F. Ilyas, Y. Li, and T. Rekatsinas. Fact Ranking over Large-Scale Knowledge Graphs with Reasoning Embedding Models. IEEE Data Engineering Bulleting, 47(2): 126-139, June 2023 (invited).
+
 **[J18]** S. S. Johari, S. Taeb, N. Shahriar, **S. R. Chowdhury**, M. Tornatore, R. Boutaba, J. Mitra, and M. Hemmati. DRL-Assisted Reoptimization of Network Slice Embedding on EON-enabled Transport Networks. IEEE Transactions on Network and Service Management, 20(1): 800-814, March 2023.
 
 **[J17]** A. Anthony, **S. R. Chowdhury**, T. Bai, R. Boutaba, and J. Francois. Non-intrusive and Workflow-aware Virtual Network Function Scheduling in User-space. IEEE Transactions on Cloud Computing, 10(3): 1975-1990, July-Sept. 2022. ([PDF](../files/tcc20_unis.pdf){:target="_blank"})
