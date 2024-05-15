@@ -8,6 +8,7 @@ title: "Awards and Achievements"
 - **Best Dissertation Award**, IEEE/IFIP Network Operations and Management Symposium (NOMS) 2022.
 
 ## Publication awards 
+- [**IEEE CNOM Test of Time Paper Award**](https://cnom.committees.comsoc.org/cnom-test-of-time-paper-award/){:target="_blank"}
 - [**Best Paper Award**](https://cs.uwaterloo.ca/news/team-systems-and-networking-researchers-wins-best-paper){:target="_blank"}, 15th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2019, Halifax, Canada
 - [**Best Paper Award**](https://cs.uwaterloo.ca/news/raouf-boutaba-and-his-graduate-students-win-best-paper){:target="_blank"}, 5th IEEE International Conference on Network Softwarization (NetSoft) 2019, Paris, France
 - [**Best Paper Award**](https://cs.uwaterloo.ca/news/professor-raouf-boutaba-postdocs-graduate-students-and){:target="_blank"}, 13th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM) 2017, Tokyo, Japan
