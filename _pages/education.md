@@ -19,7 +19,7 @@ Thesis supervisors: [Prof. Masud Hasan](https://sites.google.com/view/masudhasan
 
 ## Work experience
 - **Senior Software Engineer**, Aug'21 - present  
-AIML - Knowledge Platform, Apple, Seattle, WA, USA
+Apple, Seattle, WA, USA
 - **Staff Researcher**, Feb'21 - Jun'21  
 Distributed Scheduling and Data Engine Lab, Huawei Research Canada
 - **Teaching and Research Assistant**, May'12 - Feb'21  
@@ -44,13 +44,16 @@ AfriGIS Bangladesh
 - 2022: IEEE/IFIP NOMS Doctoral Symposium
 
 ### Conference Technical Program Committee (TPC) member
+- 2025: IEEE NetSoft
+- 2024: IEEE NetSoft
 - 2023: IEEE/IFIP NOMS, IEEE NetSoft
 - 2022: IEEE/IFIP NOMS, IEEE NetSoft
 - 2021: IEEE NetSoft
 - 2020: IEEE/IFIP NOMS, IEEE NetSoft, ACM ICN (Poster and Demo)
 - 2019: IEEE NetSoft
 
-### Journal Technical Review Board Member
+### Technical Review Board Member
+- Proceedings of the VLDB Endowment (2024 - present)
 - IEEE Transactions on Parallel and Distributed Systems (2021 - present)
 
 ### External reviewer
