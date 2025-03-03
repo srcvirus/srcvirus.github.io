@@ -43,7 +43,9 @@ author_profile: true
 **[J1]** **S. R. Chowdhury** , M. M. Hasan, S. Iqbal, and M. S. Rahman. Computing a Longest Common Palindromic Subsequence. Fundamenta Informaticae, IOS Press 129(4): 329-340, 2014. ([PDF](../files/fi_lcps.pdf){:target="_blank"}, [.bib](../files/fi_lcps.bib){:target="_blank"})
 
 ## Conference and Workshop papers
-**[C34]** J. Mohoney, A. Pacaci, **S. R. Chowdhury**, A. Mousavi, I. F. Ilyas, U. F. Minhas, J. Pound, T. Rekatsinas. High-Throughput Vector Similarity Search in Knowledge Graphs. To appear in ACM SIGMOD 2023, June 18-23, 2023, Seattle, WA, USA.
+**[C35]** J. Pound, F. Chabert, A. Bhushan, A. Goswami, A. Pacaci, **S. R. Chowdhury**. MicroNN: An On-device Disk-resident Updatable Vector Database. To appear in ACM SIGMOD 2025 (Industry Track), June 22-27, 2025, Berlin, Germany.
+
+**[C34]** J. Mohoney, A. Pacaci, **S. R. Chowdhury**, A. Mousavi, I. F. Ilyas, U. F. Minhas, J. Pound, T. Rekatsinas. High-Throughput Vector Similarity Search in Knowledge Graphs. In proceedings of ACM SIGMOD 2023, pp. 1-25.
 
 **[C33]** **S. R. Chowdhury**, and R. Boutaba. Resource Management in Softwarized Networks. In proceedings of IEEE/IFIP NOMS 2022 (Dissertation digest), pp. 1-6. **[Best Dissertation Award]**
 
