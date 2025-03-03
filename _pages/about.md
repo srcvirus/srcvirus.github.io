@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 ## About me
-I am a Senior Software Engineer Engineer at Apple (AIML - Knowledge Platform). I completed PhD in Computer Science from the [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, and B.Sc. in computer science and engineering from the Bangladesh University of Engineering and Technology (BUET). During graduate school I interned at Google and IBM Research – USA, and INRIA – France. My work spans several areas of systems and networking, including network function virtualization, network virtualization, software-defined networking, and cloud computing. I received several recognitions for my work including, the 2021 University of Waterloo Alumni Gold medal, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the 2021  IEEE ComSoc CNOM Young Professional Award.
+I am a Senior Software Engineer Engineer at Apple. I completed PhD in Computer Science from the [University of Waterloo](https://uwaterloo.ca){:target="_blank"}, and B.Sc. in computer science and engineering from the Bangladesh University of Engineering and Technology (BUET). During graduate school I interned at Google and IBM Research – USA, and INRIA – France. I received several recognitions for my work including, the 2021 University of Waterloo Alumni Gold medal, the best paper award of IEEE NetSoft in 2019, the best paper award of IEEE/ACM/IFIP CNSM in 2017 and 2019, and the 2021  IEEE ComSoc CNOM Young Professional Award.
 
 ## Recent News
-- May 13, 2024: Our work on dynamic controller provisioning in SDN received the [2024 IEEE CNOM Test of Time Paper Award](https://cnom.committees.comsoc.org/cnom-test-of-time-paper-award/).
+- Feb 25, 2025: Our work on building an on-device vector data management system accepted to SIGMOD 2025.
+- May 13, 2024: Received the [2024 IEEE CNOM Test of Time Paper Award](https://cnom.committees.comsoc.org/cnom-test-of-time-paper-award/) for our work on dynamic controller provisioning in SDN.
 - Apr 04, 2023: Jason's summer internship work on high-throughput hybrid query processing accepted to SIGMOD 2023 ([paper on arXiv](https://arxiv.org/ftp/arxiv/papers/2304/2304.01926.pdf)).
-- Nov 22, 2022: Extension of our work on re-optimizing optical network slice embedding accepted to IEEE TNSM.
+<!-- - Nov 22, 2022: Extension of our work on re-optimizing optical network slice embedding accepted to IEEE TNSM.
 - Apr 28, 2022: Received the [best dissertation award at IEEE/IFIP NOMS 2022](https://cnom.committees.comsoc.org/about-cnom/awards/). 
-- Dec 16, 2021: Our work on multi-step attack detection using programmable dataplane (collaboration with INRIA) accepted to IEEE/IFIP NOMS 2022.
+- Dec 16, 2021: Our work on multi-step attack detection using programmable dataplane (collaboration with INRIA) accepted to IEEE/IFIP NOMS 2022. -->
 <!-- - Oct 21, 2021: Received the [2021 University of Waterloo Alumni Gold medal](https://cs.uwaterloo.ca/news/shihab-r-chowdhury-awarded-2021-alumni-gold-medal). -->
 <!-- - Aug 30, 2021: Started working at Apple. -->
 <!-- - Jul 16, 2021: Our work on re-optimizing network slice embedding accepted to IEEE/ACM/IFIP CNSM 2021. -->
